@@ -82,10 +82,6 @@
       "id": "EDB37F9C-E12D-42CB-B896-ABAA723DAC0E"
     },
     {
-      "class": "rectangle",
-      "id": "C8DE3E98-0A9F-4CAF-ACBA-A937D55A4363"
-    },
-    {
       "class": "group",
       "id": "E5EB73E6-B25E-416C-A97F-B5F852746565"
     },
@@ -142,10 +138,6 @@
       "id": "6E214FB9-4D77-4840-920C-47719DBB12FB"
     },
     {
-      "class": "bitmap",
-      "id": "44743F75-2123-470E-AD63-F4C6CF5F1764"
-    },
-    {
       "class": "shapeGroup",
       "id": "B95117B0-8677-494E-B103-04D19DF1368E"
     },
@@ -160,6 +152,10 @@
     {
       "class": "group",
       "id": "53F0A84F-EDCD-4C18-85C1-567217CB2E40"
+    },
+    {
+      "class": "rectangle",
+      "id": "E497EFC7-E1D2-4E32-ACB4-7C4E80382EE4"
     }
   ],
   "name": "About us",

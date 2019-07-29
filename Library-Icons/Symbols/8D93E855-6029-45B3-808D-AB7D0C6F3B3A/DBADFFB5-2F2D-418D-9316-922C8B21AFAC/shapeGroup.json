@@ -1,84 +1,64 @@
 {
-  "_class": "rectangle",
+  "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C8DE3E98-0A9F-4CAF-ACBA-A937D55A4363",
-  "edited": false,
+  "do_objectID": "DBADFFB5-2F2D-418D-9316-922C8B21AFAC",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "7F0DD8B9-76F2-40F9-9D56-388409F931DD",
     "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
     ],
     "includedLayerIds": [
     ],
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 84,
-    "width": 84,
-    "x": 833,
-    "y": 711
+    "do_objectID": "9AF098E2-A162-4C11-A71F-554376EF6766",
+    "height": 32,
+    "width": 22,
+    "x": 5,
+    "y": 0
   },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FE918469-F960-41EE-A02C-036BAB560FB8"
+  },
+  "hasClickThrough": false,
   "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
-  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Rectangle",
-  "nameIsFixed": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
+  "layerListExpandedType": 1,
+  "layers": [
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
+      "class": "shapeGroup",
+      "id": "31E1FC8A-8CCE-4800-896A-E7ECB1031CFE"
     },
     {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 0,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
+      "class": "shapeGroup",
+      "id": "0C977866-8650-44F6-863E-49D983A1B721"
     }
   ],
+  "name": "Combined Shape",
+  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "A7DBDD11-502E-45FA-8022-724A172534F8",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -93,11 +73,12 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
-        "position": 1,
+        "isEnabled": false,
+        "position": 0,
         "thickness": 1
       }
     ],
+    "do_objectID": "1ECF6A71-1650-484B-A56C-B0EBE02CAEAB",
     "endMarkerType": 0,
     "fills": [
       {
@@ -105,9 +86,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.5607843137254902,
-          "green": 0.5607843137254902,
-          "red": 0.5607843137254902
+          "blue": 0.3215686274509804,
+          "green": 0.3215686274509804,
+          "red": 0.3215686274509804
         },
         "fillType": 0,
         "isEnabled": true,
@@ -126,20 +107,21 @@
       "kModelPropertiesKey": {
         "constraints": {
           "aspectRatio": {
-            "constant": 84,
+            "constant": 32,
             "enabled": 1,
-            "modelID": "constraint_90f39c38-ebb1-4c7b-89e0-bf3a772c7c9f",
+            "modelID": "constraint_eb5c5e3c-a8c4-406c-a29e-1d4457348c67",
             "model_class": "ADModelConstraint",
             "model_version": 0,
-            "multiplier": 84
+            "multiplier": 22.12165
           },
           "automatic": 1,
-          "modelID": "viewConstraints_0badc538-14a1-4f90-8a5e-978ad2c6f778",
+          "modelID": "viewConstraints_6c6b996d-a6d3-4838-9b84-d8fbf3d76da0",
           "model_class": "ADModelViewConstraints",
           "model_version": 0,
           "scaleFactor": 1
         }
       }
     }
-  }
+  },
+  "windingRule": 1
 }

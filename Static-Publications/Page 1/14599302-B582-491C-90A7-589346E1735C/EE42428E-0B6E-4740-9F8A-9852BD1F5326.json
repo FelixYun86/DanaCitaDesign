@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EE42428E-0B6E-4740-9F8A-9852BD1F5326",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 232,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecules/Desktop/Hero/Page Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F7300D80-ABB3-4802-A643-8D3314C744B1",
+      "overrideName": "4309D954-E323-4010-98FD-75A975A08350_stringValue",
+      "value": "Publikasi"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BED5393-B965-4EF6-83A1-EA80FA134612",
+      "overrideName": "EC674F42-5B90-4834-B84F-C279855DB9DB_stringValue",
+      "value": "Laporan terbaru total pembiayaan dan pengguna Dana Cita"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "077F147E-8F67-4AC6-B80F-C68ADF83A170",
+      "overrideName": "5D5C4D93-D652-4496-B90E-4360F9A4DF97_layerStyle",
+      "value": "87007370-BE0F-4EEB-820A-5298D4B9D12B"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C43279B8-82D1-4225-855B-C6B740F55684",
+  "verticalSpacing": 0
+}
