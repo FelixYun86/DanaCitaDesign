@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "47394160-2CD5-4C58-BB55-DCCAE4BA3932",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1024,
+    "width": 328,
+    "x": 0,
+    "y": 69
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B563E5D6-A8D7-4D38-9F16-4EA05F4086B8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5965E112-48C2-4E3D-9B64-F4CC833E7A43"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "021D2422-B1FE-484F-B36E-701DE3178809"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A472BC8D-6695-4351-9765-4E2BE2474780"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 1,
+        "constraints": {
+          "automatic": 1,
+          "minWidth": {
+            "constant": 328,
+            "enabled": 1,
+            "modelID": "constraint_d03b812f-e941-4c1c-8312-5aab4483d347",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_fb808fb4-21e8-4d54-8be9-cec23ee46420",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_d2f4f621-9a64-4a0c-aed1-705a273e990d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 1
+          }
+        },
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 40,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

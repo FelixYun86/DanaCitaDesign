@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B05EC0CD-E6EC-4CFD-9E58-E37019E86905",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 89,
+    "width": 1110,
+    "x": 170,
+    "y": 805
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/WebSection/MainSection",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1030718-2E9A-40E5-93E5-4249DD07CEB7",
+      "overrideName": "64297837-26F6-48D8-96FF-313D2C4E99D5_stringValue",
+      "value": "Pembiayaan Kuliah Lancar, Cita - cita Tercapai"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F50ACEE7-F8FB-4C10-B0D0-D29252EC6DDB",
+      "overrideName": "AE302699-7FBE-4897-9440-D612FBD30C56_stringValue",
+      "value": "Pinjaman Pendidikan Dana Cita kini hadir untuk Fakultas Kedokteran Universitas Indonesia, dengan fitur yang sesuai dengan kebutuhan Anda dan keluarga."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A1B51EFF-BD8C-45DC-9DAB-E88D68AA2031",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1563081632.156157
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

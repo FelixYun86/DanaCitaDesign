@@ -1,0 +1,46 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B6960108-FEAA-4A0A-941D-FDBB3868D35C",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 74,
+    "width": 296,
+    "x": 0,
+    "y": 490
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/Form/Checkbox/On",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2686142-9113-4262-A789-3B142823A4C3",
+      "overrideName": "B2B814A4-9C13-43A4-8352-94E80D7F7896_stringValue",
+      "value": "Saya sudah membaca dan setuju dengan Syarat dan Ketentuan dan Kebijakan Privasi"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "90726860-E175-4143-B713-74544494DFF7",
+  "verticalSpacing": 0
+}

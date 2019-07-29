@@ -1,0 +1,140 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "484E113B-E71D-420E-9609-BC05D3D20226",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "18C8EAEB-5FB2-491E-9945-9010070579F6",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2190525C-219D-46CB-8E89-B270BB0BA1DB",
+    "height": 273,
+    "width": 1100,
+    "x": 170,
+    "y": 1877
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecules/Desktop/Section/3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "954B9E5B-CE20-454C-9546-773730833011",
+      "overrideName": "CF1A07DB-6765-4F6D-ABAA-48D2B622810C_symbolID",
+      "value": "BE9F5ED0-9303-4665-9FAE-BDD5FA820FA2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "223D99F1-4B64-4A6D-BEE6-D36F0DAE1047",
+      "overrideName": "72CA1CF1-E41E-4801-9C39-50210A49D4BF_symbolID",
+      "value": "BE9F5ED0-9303-4665-9FAE-BDD5FA820FA2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1D936B3A-B003-4BA8-96F7-0571106749CF",
+      "overrideName": "CF1A07DB-6765-4F6D-ABAA-48D2B622810C/0AD8CB4F-95E8-4935-9A9A-4423A6A5F2C9_stringValue",
+      "value": "Daftarkan Diri"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D3E5B0E4-9AA8-4E51-B0BA-FC96B99D1783",
+      "overrideName": "CF1A07DB-6765-4F6D-ABAA-48D2B622810C/19B8BFB5-901C-4CD1-81E9-AD12F8694EB8_stringValue",
+      "value": "Daftar online dan lakukan pengajuan awal"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A2E1B19C-223B-4B72-93A9-77086CF33EC3",
+      "overrideName": "72CA1CF1-E41E-4801-9C39-50210A49D4BF/0AD8CB4F-95E8-4935-9A9A-4423A6A5F2C9_stringValue",
+      "value": "Verifikasi"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2C840639-4D8A-49CA-B680-A320455EDBC6",
+      "overrideName": "72CA1CF1-E41E-4801-9C39-50210A49D4BF/19B8BFB5-901C-4CD1-81E9-AD12F8694EB8_stringValue",
+      "value": "Unggah persyaratan dokumen. Tim kami akan langsung melakukan verifikasi pengajuan secara online.\n\n"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "626CDC9A-908E-4988-8102-D7B1A16AAF37",
+      "overrideName": "CF1A07DB-6765-4F6D-ABAA-48D2B622810C/B13D786C-BD0B-4C60-BAE2-907CEBE73A67_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B2E5B12B-8EAB-43A6-AF15-8BC8528DE2AF",
+      "overrideName": "72CA1CF1-E41E-4801-9C39-50210A49D4BF/2E84034A-AFA7-442C-962A-6DC29A21A51C_stringValue",
+      "value": "2"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6FE377B8-34B9-49BC-A60A-C15E48DD57F0",
+      "overrideName": "6C53AFF3-1381-4598-A7F4-36B3292B82EA_symbolID",
+      "value": "0C2E5CF3-1310-405F-A65A-8E8953996785"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8219A7C9-F3ED-491D-8F4B-5FDC66405327",
+      "overrideName": "6C53AFF3-1381-4598-A7F4-36B3292B82EA/C748B636-7C07-4248-A446-76154898D630_stringValue",
+      "value": "3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F306D3E0-FF14-4419-B617-89889CF260F6",
+      "overrideName": "6C53AFF3-1381-4598-A7F4-36B3292B82EA/9F603116-92D4-4FE4-94A2-DE29076BE0C1_stringValue",
+      "value": "Dana akan langsung dicairkan ke lembaga pendidikan. Lakukan pembayaran cicilan\nke Dana Cita."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D85057D0-A7BB-42C7-96CF-FFA0741D7604",
+      "overrideName": "6C53AFF3-1381-4598-A7F4-36B3292B82EA/6FB898B2-C3E9-46FF-9FC2-90EDDE9A2113_stringValue",
+      "value": "Pencairan Dana"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F01B002D-BB19-45E1-B52A-372D41578F94",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5926D843-AF29-4EE1-81C8-EA2311E75E83",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1563422991.399507
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

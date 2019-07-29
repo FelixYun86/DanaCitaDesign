@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "82AFE3CE-1AA5-46D3-8468-D8581281C9DA",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56951DC5-9FFB-4950-B551-C71B0DCC0DE6",
+    "height": 54,
+    "width": 307,
+    "x": -1596,
+    "y": 963
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/WebSection/SubSection Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F66C5385-EF16-4685-99FB-C19937C13EB9_stringValue",
+      "value": "Slip Gaji / Rekening Koran"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7329DEC1-3D0F-401C-BBC2-D1EB3F391200_stringValue",
+      "value": "Untuk Penjamin, 3 bulan terakhir"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "97BE2DD4-8615-4778-9DE9-2E5303BF1D59",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE59B772-EEB4-444F-B4A6-9DC3E51D3C1D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1563163514.608538
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

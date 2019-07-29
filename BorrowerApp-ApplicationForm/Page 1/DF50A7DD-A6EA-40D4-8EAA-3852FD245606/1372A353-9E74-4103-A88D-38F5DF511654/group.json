@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1372A353-9E74-4103-A88D-38F5DF511654",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 322,
+    "width": 328,
+    "x": 16,
+    "y": 1188
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "06986239-DAA1-43C1-BAB3-405C06860116"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA164DAA-D744-47C4-9AD9-714D3AE8C3CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F38A36E-31EC-4994-B8CD-16DCA351FBDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "585EA912-AD51-4658-8A1E-6888B6A18F0F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17BF1495-2074-46B5-ABEB-2C46C3C6EE47"
+    }
+  ],
+  "name": "Group 2 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 1,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 8,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

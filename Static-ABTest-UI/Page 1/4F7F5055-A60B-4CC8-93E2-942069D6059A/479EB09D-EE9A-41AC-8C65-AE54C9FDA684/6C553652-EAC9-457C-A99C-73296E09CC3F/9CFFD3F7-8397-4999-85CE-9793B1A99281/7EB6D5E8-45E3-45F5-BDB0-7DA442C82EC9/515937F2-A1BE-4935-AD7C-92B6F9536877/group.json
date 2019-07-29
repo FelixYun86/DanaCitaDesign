@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "515937F2-A1BE-4935-AD7C-92B6F9536877",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 462,
+    "x": 0,
+    "y": 6
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1954A247-883D-49F2-A86B-C5D02CF9AD4F"
+    },
+    {
+      "class": "text",
+      "id": "125FF26D-E11E-4307-A10C-5191F869253E"
+    },
+    {
+      "class": "text",
+      "id": "DBBA24C5-D0EC-4A8B-BA6E-CB46ECB48E61"
+    },
+    {
+      "class": "text",
+      "id": "68215285-8B96-4F19-85BE-F93076818201"
+    },
+    {
+      "class": "text",
+      "id": "D10E26BE-4C7B-432B-B22C-E928D462EF8C"
+    }
+  ],
+  "name": "Menu Bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 0,
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 26,
+        "stackType": 1
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

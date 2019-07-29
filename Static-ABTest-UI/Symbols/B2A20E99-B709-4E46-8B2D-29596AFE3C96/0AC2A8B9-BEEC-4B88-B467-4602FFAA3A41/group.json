@@ -1,0 +1,64 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0AC2A8B9-BEEC-4B88-B467-4602FFAA3A41",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 68,
+    "width": 68,
+    "x": 2,
+    "y": 2
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1C5A779A-B439-429D-88E9-7BCB3C91B28C"
+    },
+    {
+      "class": "shapePath",
+      "id": "B9257C56-1E72-4A7B-BD8D-D09F9798C4B4"
+    },
+    {
+      "class": "rectangle",
+      "id": "D5F9C476-4BE3-4F4D-A064-04993B5DD619"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2E23972E-96FE-4D53-8AC5-5E918A6D0407"
+    },
+    {
+      "class": "shapePath",
+      "id": "9825935E-170B-45FC-AC74-BFACFE17CE71"
+    },
+    {
+      "class": "shapePath",
+      "id": "3D2443BA-EE31-4B3C-BC52-79065997EB05"
+    }
+  ],
+  "name": "online-shopping",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

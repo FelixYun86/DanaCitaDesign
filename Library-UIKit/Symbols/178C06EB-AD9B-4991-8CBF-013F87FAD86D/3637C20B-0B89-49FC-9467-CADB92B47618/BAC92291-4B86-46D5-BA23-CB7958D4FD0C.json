@@ -1,0 +1,78 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BAC92291-4B86-46D5-BA23-CB7958D4FD0C",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 720,
+    "x": 380,
+    "y": 592
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Value Proposition Section",
+  "nameIsFixed": true,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7867CC0F-E4CB-43E3-82BB-9606F5A11216",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 380,
+            "enabled": 1,
+            "modelID": "constraint_61434899-de30-44c2-84d5-a56b2efa02ef",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_e38d8e7a-a463-43ec-a324-84c301c45657",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1,
+          "top": {
+            "constant": 592,
+            "enabled": 1,
+            "modelID": "constraint_5e1a3f3a-222f-4a4c-b9b2-b3d00c3f1f30",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "width": {
+            "constant": 720,
+            "enabled": 1,
+            "modelID": "constraint_46a0862e-dc1e-4ecf-885b-a7eb274f49c0",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          }
+        },
+        "size.update": 1563081352.761779
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

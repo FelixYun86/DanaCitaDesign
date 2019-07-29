@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "266F5DDC-412D-453D-9E71-409FE9789399",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 232,
+    "width": 1440,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecules/Desktop/Hero/Page Small",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BA49280-1162-4CCB-97FF-43532FD41631",
+      "overrideName": "4309D954-E323-4010-98FD-75A975A08350_stringValue",
+      "value": "Tentang Kami"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "914361D9-4C46-48A1-856A-F946C98120FD",
+      "overrideName": "5D5C4D93-D652-4496-B90E-4360F9A4DF97_layerStyle",
+      "value": "DCF88315-9027-4465-90ED-E15A803A73FE"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B174626F-1821-4689-B50F-587CDB92660B",
+  "verticalSpacing": 0
+}

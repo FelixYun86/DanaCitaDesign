@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9D6C96B2-C0BF-4E27-BAF0-453BB26BC6AB",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC5DAEAE-F883-4A97-B283-DE9B927C5609",
+    "height": 60,
+    "width": 328,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/TextField Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EFE5E7E0-23B1-4735-9ED7-219F317796EE/02A3595A-349C-497B-B9A4-0499AD06C02D_stringValue",
+      "value": "Lembaga Pendidikan"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F13E6CE2-8ADC-4022-91A6-F608668A0645_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DBC12B36-8774-4B9C-A0DC-B7F64981B632_stringValue",
+      "value": "Algoritma"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A23FF239-A422-4146-A44E-8E154952BB46",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE5288E7-0E3A-4340-8DF8-02333FBDB069",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5014DAE-EAA6-47D4-B734-E4DB825F3F86",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 52,
+    "width": 79,
+    "x": 0,
+    "y": 4
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6D3D8F46-91E4-4373-9E59-3D3A7EB2E35E"
+    },
+    {
+      "class": "group",
+      "id": "FB04837F-06D8-4389-97F4-941FB8B9D44B"
+    }
+  ],
+  "name": "Content",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_a3e07920-dc4b-42a2-83ad-733e59bfa367",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_c146f1e3-b297-4e57-a3e3-2c56d7846f2f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1,
+          "top": {
+            "constant": 4,
+            "enabled": 1,
+            "modelID": "constraint_1ad1ee32-6d70-405a-a950-12886bdacf9f",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          }
+        },
+        "padding": {
+          "bottom": 14,
+          "left": 10,
+          "modelID": "viewPadding_bf6b1c62-e121-4c10-8298-94cfc1a74446",
+          "model_class": "ADModelViewPadding",
+          "model_version": 0.1,
+          "right": 10,
+          "top": 14
+        }
+      }
+    }
+  }
+}

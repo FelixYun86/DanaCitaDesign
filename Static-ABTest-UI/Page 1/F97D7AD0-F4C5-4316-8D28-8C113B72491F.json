@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F97D7AD0-F4C5-4316-8D28-8C113B72491F",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "385B8FB6-AD17-456C-A6A5-F4F1845D8C5C",
+    "height": 54,
+    "width": 269,
+    "x": -1957,
+    "y": 1167
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/WebSection/SubSection Copy 7",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F66C5385-EF16-4685-99FB-C19937C13EB9_stringValue",
+      "value": "NPWP"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7329DEC1-3D0F-401C-BBC2-D1EB3F391200_stringValue",
+      "value": "Untuk pinjaman diatas 50 juta"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B3586231-1A73-4E30-86B2-C375FDFC40F2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE59B772-EEB4-444F-B4A6-9DC3E51D3C1D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1563422991.398362
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C0FBFA26-8B52-4604-AA60-A41D1198F9F8",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B930007B-80B7-4445-A078-0228762B0841",
+    "height": 48,
+    "width": 75,
+    "x": 0,
+    "y": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8B51C9EB-6F1B-497F-825E-BAF6F9A5E7CA"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FBDDC8AA-4B48-4009-B1ED-15CC39FAA4E0"
+    },
+    {
+      "class": "group",
+      "id": "A4241C06-9495-4824-B339-F9594B6262D6"
+    }
+  ],
+  "name": "Branding/Logo Full",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9D939EA3-8A8C-43D9-82B4-18FF1FC56C8A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kViewTypeKey": ""
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3DEF024D-67D9-4748-8236-4716D6D48C4E",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 72,
+    "x": 168,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Penjamin",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9FFAA9F8-C36C-4587-8DCA-7DEB0AA6978E_symbolID",
+      "value": "92370DB2-BCE2-401C-B757-26B0743AA20C"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "80A0173A-F0BA-42CB-9BB1-EA891D779BAD_stringValue",
+      "value": "Penjamin"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CC8A33AB-3EA5-47A8-B54B-D40C1D977469_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F2305F4D-6647-4D34-9DD9-B616CC21CACD_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6D06D6E4-6C82-48B0-BFF2-9183ABCACA62",
+      "overrideName": "80A0173A-F0BA-42CB-9BB1-EA891D779BAD_textStyle",
+      "value": "A8B6431E-E928-442D-9DE3-517844FE4A02"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BC679273-F387-4283-8E47-9CFF7829CD71",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "height": {
+            "constant": 72,
+            "enabled": 1,
+            "modelID": "constraint_5b547279-3e4f-4136-8cc1-0688bc8ed0d9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_50710988-579f-4536-b703-37a871107cc9",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 72,
+            "enabled": 1,
+            "modelID": "constraint_fa7bc543-4504-43ac-ab99-a6f1cf93615b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

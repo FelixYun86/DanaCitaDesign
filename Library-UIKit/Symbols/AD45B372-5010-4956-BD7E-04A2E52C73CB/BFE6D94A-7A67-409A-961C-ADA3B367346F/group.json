@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFE6D94A-7A67-409A-961C-ADA3B367346F",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FF108A33-8A30-46CC-930E-ECF3581DA7F2",
+    "height": 27,
+    "width": 47,
+    "x": 2,
+    "y": 17
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "544D572D-ECB8-4C36-A950-E25EF7E5490C"
+    },
+    {
+      "class": "group",
+      "id": "1A9FB446-7552-473B-8189-A3A5AD3F1429"
+    },
+    {
+      "class": "group",
+      "id": "312F434A-8526-43C3-9F6F-D482741E69F7"
+    },
+    {
+      "class": "shapePath",
+      "id": "1C863B53-1114-49A8-A5AF-53C302BB71E0"
+    }
+  ],
+  "name": "icon/ProgressBar/Sekolah/Color",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58038C76-B66C-462B-B0B5-17A35DA4C148",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

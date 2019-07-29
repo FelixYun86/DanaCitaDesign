@@ -1,0 +1,164 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5EA3DCD2-4B3A-4FCB-AD8B-CD4F989B5AB1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3CD24FE2-A3B0-46B2-A84A-DF73A599E962",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DD239B63-9AF5-403D-92CA-584F9DF6E232",
+    "height": 304,
+    "width": 1100,
+    "x": 170,
+    "y": 36
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecules/Desktop/Section/3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3044F4D6-AD8F-4F80-ACAF-F8941F16E2F5",
+      "overrideName": "18FB9A1A-3C58-4500-8546-06499C318F9D_symbolID",
+      "value": "E0079AC7-8959-4BB5-A3D9-F0B8CC540056"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76CC6085-85C0-47DA-BE2A-33D033C581B0",
+      "overrideName": "CC506543-D9C3-4EE6-9382-B9A160FF5FE2_symbolID",
+      "value": "E0079AC7-8959-4BB5-A3D9-F0B8CC540056"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A749A85D-2BC9-485A-8C4A-6A243C57D8A5",
+      "overrideName": "5E875415-5606-4BA3-803A-4A3E4E9DE987_symbolID",
+      "value": "E0079AC7-8959-4BB5-A3D9-F0B8CC540056"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A97D0EF-CAF8-47EF-B93D-5E6AC578B2F3",
+      "overrideName": "844928B0-1646-41E2-BF12-48E78B19D9A5_symbolID",
+      "value": "E0079AC7-8959-4BB5-A3D9-F0B8CC540056"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "613B9458-CEC7-4081-A6B8-0FF0ADC2C8C9",
+      "overrideName": "18FB9A1A-3C58-4500-8546-06499C318F9D/38D08A91-7592-485E-95AA-D0E727E98444_stringValue",
+      "value": "Fleksibel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5524B602-D5E7-4A2C-ACA0-928776C5AD71",
+      "overrideName": "CC506543-D9C3-4EE6-9382-B9A160FF5FE2/38D08A91-7592-485E-95AA-D0E727E98444_stringValue",
+      "value": "Cepat"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E82D2E2A-FE7C-4085-A6B6-11FDBCBDB1DC",
+      "overrideName": "5E875415-5606-4BA3-803A-4A3E4E9DE987/38D08A91-7592-485E-95AA-D0E727E98444_stringValue",
+      "value": "Aman"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC1438C0-F041-4AAA-8B81-4082D7B9B803",
+      "overrideName": "844928B0-1646-41E2-BF12-48E78B19D9A5/38D08A91-7592-485E-95AA-D0E727E98444_stringValue",
+      "value": "Aksesibel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD0A7ED5-5EAA-4B12-93F3-238036BB774B",
+      "overrideName": "18FB9A1A-3C58-4500-8546-06499C318F9D/6F479247-E371-425A-8F7A-FF2C0014DBFA_stringValue",
+      "value": "Top Up per Semester sesuai kebutuhanmu. Ada dana tambahan? Bebas melunasi langsung tanpa denda."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3227EC89-8A6E-4A1A-BE35-1532045E99B2",
+      "overrideName": "CC506543-D9C3-4EE6-9382-B9A160FF5FE2/6F479247-E371-425A-8F7A-FF2C0014DBFA_stringValue",
+      "value": "Proses 100% Online hingga pencairan. Dalam 1 - 3 hari kerja pinjaman Anda sudah disetujui."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83CD2253-D787-40FC-A175-C1A6BFF5554B",
+      "overrideName": "5E875415-5606-4BA3-803A-4A3E4E9DE987/6F479247-E371-425A-8F7A-FF2C0014DBFA_stringValue",
+      "value": "Dana Anda langsung kami cairkan ke Binus tanpa melalui rekening pribadi. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5DD8CEE-B00C-4DDF-B919-E4F8DF1F4542",
+      "overrideName": "844928B0-1646-41E2-BF12-48E78B19D9A5/6F479247-E371-425A-8F7A-FF2C0014DBFA_stringValue",
+      "value": "Tanpa Kartu Kredit. Limit sesuai tagihan kampus."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD96B56E-E17D-4FFE-BF94-57BC3FD40C04",
+      "overrideName": "CC506543-D9C3-4EE6-9382-B9A160FF5FE2/1900B7B1-D937-453B-9B86-F04511014733_symbolID",
+      "value": "CC1A98A6-050C-4833-A589-1531CE71D62B"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8462E79A-D0E5-431A-8B19-E63F6AEEBA45",
+      "overrideName": "5E875415-5606-4BA3-803A-4A3E4E9DE987/1900B7B1-D937-453B-9B86-F04511014733_symbolID",
+      "value": "490F2DD9-C249-4864-942A-40F966B4A067"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D50F2CDC-2936-42EC-A248-E726D9292F41",
+      "overrideName": "18FB9A1A-3C58-4500-8546-06499C318F9D/1900B7B1-D937-453B-9B86-F04511014733_symbolID",
+      "value": "28266FDC-4D2F-452C-9EA6-3D99596E676D"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED5B432B-A9D6-4598-B8F8-7A2BDD00C549",
+      "overrideName": "844928B0-1646-41E2-BF12-48E78B19D9A5/1900B7B1-D937-453B-9B86-F04511014733_symbolID",
+      "value": "304C3F59-C0D1-4792-9D19-232C889680B4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60E759B3-842A-40BF-8ED5-0F6BB9327DDA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0545430F-5579-44B0-8372-9564AF67F55F",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1563081631.575249
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

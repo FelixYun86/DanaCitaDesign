@@ -1,0 +1,80 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B04EB51-FD25-4730-8BAC-9B97E7DEF5AB",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1430,
+    "width": 360,
+    "x": 4501,
+    "y": 54
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "54D41D86-580E-4C44-9E0D-D00123296244"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CF789430-C9AB-484D-847E-8CF7BE8F4C45"
+    },
+    {
+      "class": "group",
+      "id": "BFB1B203-7565-4395-9F83-EE97FD634CD9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A2613B6-2493-4669-90D5-67971EEEA1BC"
+    }
+  ],
+  "name": "Verifikasi  1",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

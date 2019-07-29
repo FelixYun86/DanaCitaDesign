@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3A0AC3B9-AEE7-4144-A6F9-16C60CE9CE34",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 50,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "CC8A33AB-3EA5-47A8-B54B-D40C1D977469"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4146BEAD-922C-46BE-A00B-75007E559BD1"
+    },
+    {
+      "class": "text",
+      "id": "80A0173A-F0BA-42CB-9BB1-EA891D779BAD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9FFAA9F8-C36C-4587-8DCA-7DEB0AA6978E"
+    }
+  ],
+  "name": "ProgressBar/Item",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

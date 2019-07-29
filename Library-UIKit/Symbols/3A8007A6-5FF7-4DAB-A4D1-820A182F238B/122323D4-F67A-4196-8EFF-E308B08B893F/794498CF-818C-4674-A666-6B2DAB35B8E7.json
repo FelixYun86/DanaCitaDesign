@@ -1,0 +1,46 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "794498CF-818C-4674-A666-6B2DAB35B8E7",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 36.65454545454545,
+    "width": 36.65454545454545,
+    "x": 10.18181818181818,
+    "y": 10.18181818181818
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Override/Icon30/Icon WhatsApp",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BA6EEF32-E4E5-46E2-A7DA-43803806B4DB",
+      "overrideName": "41EFC59F-B1B5-4E63-AB1A-75CEF9D873E2_layerStyle",
+      "value": "29ECF871-8AA7-4ED4-9CE4-09108EA685B4"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DBF5C7E3-42BC-4E71-8EFA-D5359A03DB58",
+  "verticalSpacing": 0
+}

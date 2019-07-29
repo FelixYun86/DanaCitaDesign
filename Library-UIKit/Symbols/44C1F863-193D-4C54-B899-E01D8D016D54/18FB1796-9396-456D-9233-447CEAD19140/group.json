@@ -1,0 +1,127 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "18FB1796-9396-456D-9233-447CEAD19140",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "36924EDE-3803-4EC9-9609-D622B9F8CF7A",
+    "height": 490,
+    "width": 330,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "5D581B0C-F4BA-4EAB-9A2F-C17E4C49A47D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "2C245D18-33B8-44D5-B516-A5EDAE1D3AD3"
+    },
+    {
+      "class": "text",
+      "id": "31340485-3476-4F81-91E9-9FF30BB4EE67"
+    },
+    {
+      "class": "text",
+      "id": "CE243A50-98ED-4053-BF79-E1FDE0910617"
+    },
+    {
+      "class": "text",
+      "id": "00C0C041-283A-4E27-AB98-A313C95C6D48"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D426D098-FF05-45D5-A338-1DBA02FA2847"
+    },
+    {
+      "class": "text",
+      "id": "3CA49668-DF0B-443E-BFC1-E73F8F80BCEC"
+    },
+    {
+      "class": "text",
+      "id": "25D1CCC8-DE30-4FE3-BFE5-6767277FFA24"
+    },
+    {
+      "class": "text",
+      "id": "37AF79CC-1F81-48F0-A019-4522D9409B0D"
+    },
+    {
+      "class": "text",
+      "id": "1C684C92-C1EE-4EE2-93CE-F651FAB1D102"
+    },
+    {
+      "class": "group",
+      "id": "DFBE132F-AE8F-4856-8872-F441B9BA4B1A"
+    },
+    {
+      "class": "text",
+      "id": "02518981-6038-4D0C-8B46-DC5CEF3C3981"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "796323D1-E268-4377-A757-D0E14F96E55F"
+    },
+    {
+      "class": "group",
+      "id": "9DDDF568-8CD7-475D-9745-635C424B7564"
+    },
+    {
+      "class": "shapePath",
+      "id": "8D297861-DCC4-42DC-BAD0-A47696666FD5"
+    }
+  ],
+  "name": "Molecules/Calculator",
+  "nameIsFixed": true,
+  "resizingConstraint": 41,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "75C9E9D0-49CA-41C5-A88C-8CE491453339",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 20,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 10,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

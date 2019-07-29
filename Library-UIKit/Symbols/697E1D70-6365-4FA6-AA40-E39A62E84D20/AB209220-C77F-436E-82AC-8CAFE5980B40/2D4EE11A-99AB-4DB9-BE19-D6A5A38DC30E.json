@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2D4EE11A-99AB-4DB9-BE19-D6A5A38DC30E",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 72,
+    "x": 252,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Penawaran",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "80A0173A-F0BA-42CB-9BB1-EA891D779BAD_stringValue",
+      "value": "Selesai"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CC8A33AB-3EA5-47A8-B54B-D40C1D977469_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9FFAA9F8-C36C-4587-8DCA-7DEB0AA6978E_symbolID",
+      "value": "4C1F2842-16FB-4004-8151-B4E4D63E11FD"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F2305F4D-6647-4D34-9DD9-B616CC21CACD_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "62B5DF54-4A56-4267-B7E0-48ED31EACDC5",
+      "overrideName": "80A0173A-F0BA-42CB-9BB1-EA891D779BAD_textStyle",
+      "value": "A8B6431E-E928-442D-9DE3-517844FE4A02"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BC679273-F387-4283-8E47-9CFF7829CD71",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "height": {
+            "constant": 72,
+            "enabled": 1,
+            "modelID": "constraint_f8e28af8-95f5-436c-899c-7bc6fa1a5f4d",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_b7034ab2-bb07-4537-b1f5-9394a9c73648",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 72,
+            "enabled": 1,
+            "modelID": "constraint_f5979bb2-cbe7-4912-9b70-275890d37136",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

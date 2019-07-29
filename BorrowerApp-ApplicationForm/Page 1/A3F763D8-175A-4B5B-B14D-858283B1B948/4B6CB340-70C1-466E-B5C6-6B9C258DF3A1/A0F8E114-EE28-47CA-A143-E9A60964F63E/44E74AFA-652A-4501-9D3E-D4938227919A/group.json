@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "44E74AFA-652A-4501-9D3E-D4938227919A",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 350,
+    "width": 326,
+    "x": 0,
+    "y": 351
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "A3B52683-CCD8-4C30-91BA-D79B18863B7C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD4DE8C3-26D3-48A9-829E-3E33F646ECE9"
+    },
+    {
+      "class": "group",
+      "id": "0C73C644-4902-41E6-BAEB-AF22F82F5FC5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F7E68451-119E-43EF-BABA-D114399556F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4277AAEB-D498-4561-BB20-045DCB7B75E5"
+    },
+    {
+      "class": "text",
+      "id": "6C965AB5-CCD7-4661-AF52-8C221B7F9424"
+    }
+  ],
+  "name": "Group 4 Copy 2",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "align": 1,
+        "constraints": {
+          "automatic": 1,
+          "modelID": "viewConstraints_14326f9f-f55c-4d63-a926-5e046dd5fbe7",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_59062eb2-9a4c-4f02-9c09-1ca4707d5a76",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 1
+          }
+        },
+        "isCollapsing": 1,
+        "resizesContainer": 1,
+        "spacing": 12,
+        "stackType": 0
+      },
+      "kViewTypeKey": "ADModelStackView"
+    }
+  }
+}

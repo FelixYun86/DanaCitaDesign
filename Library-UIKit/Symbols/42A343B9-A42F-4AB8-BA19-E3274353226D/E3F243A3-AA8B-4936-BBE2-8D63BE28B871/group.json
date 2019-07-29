@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E3F243A3-AA8B-4936-BBE2-8D63BE28B871",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 14,
+    "width": 30,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "83ACFF95-987F-486C-942A-BAB51E9539F8"
+    },
+    {
+      "class": "text",
+      "id": "02A3595A-349C-497B-B9A4-0499AD06C02D"
+    }
+  ],
+  "name": "Foundations/Subtitle Background",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "padding": {
+          "bottom": 0,
+          "left": 4,
+          "modelID": "viewPadding_deca2ab7-aae5-49d4-855e-0f95c9e7b5d0",
+          "model_class": "ADModelViewPadding",
+          "model_version": 0.1,
+          "right": 4,
+          "top": 0
+        }
+      }
+    }
+  }
+}

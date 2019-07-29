@@ -1,0 +1,71 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "57D8AA83-E0D3-441C-B680-1C6220CF3DA6",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 76,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AC4666D9-72AD-409B-BA88-5DCDF0CBB622"
+    },
+    {
+      "class": "oval",
+      "id": "8CD50EDD-F805-479B-87B5-CD62BFE7CC6E"
+    },
+    {
+      "class": "oval",
+      "id": "8D93AE12-C6CA-4D17-A8F1-38DBB3D2FBC0"
+    },
+    {
+      "class": "text",
+      "id": "383E209B-4314-4497-8909-C159233DF9AF"
+    }
+  ],
+  "name": "Atoms/Radio",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "padding": {
+          "bottom": 6,
+          "left": 0,
+          "modelID": "viewPadding_a3e3bea5-1839-4a17-aa33-8a88614d19ed",
+          "model_class": "ADModelViewPadding",
+          "model_version": 0,
+          "right": 6,
+          "top": 6
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "78D18EE0-5DCE-4430-BC3C-4F4406EEF073",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 72,
+    "x": 84,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Akademik",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "80A0173A-F0BA-42CB-9BB1-EA891D779BAD_stringValue",
+      "value": "Akademik"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "9FFAA9F8-C36C-4587-8DCA-7DEB0AA6978E_symbolID",
+      "value": "47B7B985-2A69-48BA-B983-294CC67D4D3F"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "CC8A33AB-3EA5-47A8-B54B-D40C1D977469_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F2305F4D-6647-4D34-9DD9-B616CC21CACD_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E4F81E9C-8918-4376-8654-F9A62FB5BABF",
+      "overrideName": "80A0173A-F0BA-42CB-9BB1-EA891D779BAD_textStyle",
+      "value": "A8B6431E-E928-442D-9DE3-517844FE4A02"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BC679273-F387-4283-8E47-9CFF7829CD71",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "height": {
+            "constant": 72,
+            "enabled": 1,
+            "modelID": "constraint_df2b4bb8-f83f-4380-a862-e5ec4cb8a32b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_8298b5f3-6583-4828-a3dc-975d25993b4e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1,
+          "width": {
+            "constant": 72,
+            "enabled": 1,
+            "modelID": "constraint_9051cdf8-af28-4cda-ad23-e8d11d09b3b9",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          }
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

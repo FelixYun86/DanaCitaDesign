@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "341CD655-03C5-48E2-BAD7-E2DA69D6663C",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 60,
+    "width": 328,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EE989A93-85B2-4978-9AC2-B9CD721975D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0FF2AA9C-191A-47DB-85A3-68BFDDCB5ACF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79ED06F7-C6F6-4189-BD1F-8C3B94691882"
+    },
+    {
+      "class": "text",
+      "id": "75CE94A4-7324-4B30-9A1C-6B9EBA3AC98F"
+    }
+  ],
+  "name": "Components/Review Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D238A9DF-4B5A-4E32-BAEB-E617E5D5A7F2",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 85,
+    "width": 328,
+    "x": 0,
+    "y": 314
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/Form/Checkbox/On",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B077E13E-A40E-4C67-92C2-1CEED1E9FDD3",
+      "overrideName": "B2B814A4-9C13-43A4-8352-94E80D7F7896_stringValue",
+      "value": "Saya setuju jika dana langsung ditransfer ke institusi pendidikan BUKAN ke rekening pribadi"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "90726860-E175-4143-B713-74544494DFF7",
+  "verticalSpacing": 0
+}

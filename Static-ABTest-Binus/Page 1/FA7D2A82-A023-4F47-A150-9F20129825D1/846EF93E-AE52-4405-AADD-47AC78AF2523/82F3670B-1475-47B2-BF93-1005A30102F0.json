@@ -1,0 +1,70 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "82F3670B-1475-47B2-BF93-1005A30102F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D11A891C-544E-405C-AE94-56BBA7AA8AD3",
+    "height": 67,
+    "width": 1110,
+    "x": 170,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/WebSection/MainSection",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D1030718-2E9A-40E5-93E5-4249DD07CEB7",
+      "overrideName": "64297837-26F6-48D8-96FF-313D2C4E99D5_stringValue",
+      "value": "Pembiayaan Kuliah Lancar, Cita - cita Tercapai"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F50ACEE7-F8FB-4C10-B0D0-D29252EC6DDB",
+      "overrideName": "AE302699-7FBE-4897-9440-D612FBD30C56_stringValue",
+      "value": "Pinjaman Pendidikan Dana Cita kini hadir untuk Semua Jurusan di Binus University, dengan fitur yang sesuai dengan kebutuhan Anda dan keluarga."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F8A29F2F-787D-4283-988F-EC92738BB5D4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CBE2480D-AE9A-43E7-A158-EA56374F2E42",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1563428770.545312
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

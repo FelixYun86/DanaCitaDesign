@@ -1,0 +1,48 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1089201-1A6F-4264-8800-C4CEAF7B2038",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "26DA9103-A39F-45DF-8591-4717CC465DA7",
+    "height": 44,
+    "width": 238,
+    "x": 46,
+    "y": 793
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/Button/Secondary Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6DBEBF7F-7908-4EE0-82B8-C2B6D96591FA",
+      "overrideName": "BD4168DD-8A6A-4611-843F-50365D40CF8E_stringValue",
+      "value": "Baca Selengkapnya"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "89AC18E2-00A8-4B0C-8904-CFBCA329FFE3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "45C2C617-6CB3-4D72-B6B3-F617778AC43C",
+  "verticalSpacing": 0
+}

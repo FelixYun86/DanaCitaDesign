@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "73EDC33E-5B72-49B4-9D9A-1CCC6DA1EB8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B7E0835-FAF7-4395-986E-609EE22E167C",
+    "height": 98,
+    "width": 196,
+    "x": 0,
+    "y": 58
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/WebSection/SubSection Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F66C5385-EF16-4685-99FB-C19937C13EB9_stringValue",
+      "value": "Penjamin"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7329DEC1-3D0F-401C-BBC2-D1EB3F391200_stringValue",
+      "value": "Orang Tua, atau Saudara. Berusia 21 tahun keatas dan memiliki penghasilan."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "163543A4-0B9E-431A-8F05-F59DC8D49308",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "27E9A426-D210-4C81-8D09-8B3E9255D37A",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1563163302.096
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

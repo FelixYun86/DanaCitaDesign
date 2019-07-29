@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0A190623-9A4E-4CD6-A5D4-311AE8A616B5",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 72,
+    "width": 72,
+    "x": 168,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Penjamin",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "80A0173A-F0BA-42CB-9BB1-EA891D779BAD_stringValue",
+      "value": "Penjamin"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "F2305F4D-6647-4D34-9DD9-B616CC21CACD_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B9B48DED-0FB4-4EBE-AB06-F02440668906",
+      "overrideName": "4146BEAD-922C-46BE-A00B-75007E559BD1/6B812360-0A65-47BF-B10C-2DF716497F5C_layerStyle",
+      "value": "5ECC88DD-BF65-48D0-BE06-EA9EE0904507"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BC679273-F387-4283-8E47-9CFF7829CD71",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

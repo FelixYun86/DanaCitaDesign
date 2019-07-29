@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "54F939B7-81F9-4D08-8E08-FB151CE4A575",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 328,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/Form/Switch/Left",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F8D59194-2D67-4131-B5FB-F37AFCBECE4F",
+      "overrideName": "926D8048-9202-47DB-99C3-341FDEEABAD1_stringValue",
+      "value": "Formal"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DDC2F20D-789C-42BD-813F-C83E0B59FD4B",
+      "overrideName": "573FCC32-DF9F-47B8-BD29-D3C77ACCCCCC_stringValue",
+      "value": "Non Formal"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8FD9312E-6895-4465-B008-F96088609415",
+  "verticalSpacing": 0
+}

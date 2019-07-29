@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A7255650-EA9E-4104-8A2F-D0D460C4ADBC",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FDC84259-6459-4374-930F-B80EFC2140A1",
+    "height": 86,
+    "width": 263,
+    "x": 252.0186312652158,
+    "y": 8.450980392156907
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "1F943857-7492-4F65-992C-0C6DAFD2BB7D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4775B94D-9B80-4A3C-9C56-07BBB26A60E3"
+    },
+    {
+      "class": "text",
+      "id": "6E18A207-2913-4810-9DF7-51D8DC71F8D4"
+    },
+    {
+      "class": "text",
+      "id": "2F0069AE-BCAD-48D9-93FC-74CD118C5A7C"
+    }
+  ],
+  "name": "Group 8 Copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EA803C6C-330D-4D3F-ABB0-7F8E7FA26237",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E8CE4868-83F4-4A29-9B24-3C9BFD0116AA",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "12F3D24D-5DF7-4341-B1EE-F57A9A654E61",
+    "height": 54,
+    "width": 269,
+    "x": -1957,
+    "y": 963
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/WebSection/SubSection Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F66C5385-EF16-4685-99FB-C19937C13EB9_stringValue",
+      "value": "KK"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7329DEC1-3D0F-401C-BBC2-D1EB3F391200_stringValue",
+      "value": "Kartu Keluarga Penjamin"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BC09A055-B7E1-437F-B8C0-A8F0E1D86291",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE59B772-EEB4-444F-B4A6-9DC3E51D3C1D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1563422991.398688
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

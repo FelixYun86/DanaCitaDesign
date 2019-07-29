@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CD157009-1333-4240-8D8D-C8B8BF83F963",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "47BB2466-7F13-44B5-A5EA-5038605C1B24",
+    "height": 76,
+    "width": 269,
+    "x": -1957,
+    "y": 852
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/WebSection/SubSection",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "61826938-C028-4B1F-9981-BB5F8D4D7C0D",
+      "overrideName": "F66C5385-EF16-4685-99FB-C19937C13EB9_stringValue",
+      "value": "KTP"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4D8963AF-1323-4E64-8663-F45B185E80A3",
+      "overrideName": "7329DEC1-3D0F-401C-BBC2-D1EB3F391200_stringValue",
+      "value": "Kartu Tanda Penduduk Pemohon dan Penjamin"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CB20228E-780F-420E-97E9-78B5D2EF5986",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AE59B772-EEB4-444F-B4A6-9DC3E51D3C1D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1563189105.345163
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

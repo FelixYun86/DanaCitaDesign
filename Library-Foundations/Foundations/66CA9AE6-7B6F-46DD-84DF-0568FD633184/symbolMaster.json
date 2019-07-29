@@ -1,0 +1,108 @@
+{
+  "_class": "symbolMaster",
+  "allowsOverrides": false,
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8C3A0104-5B67-454D-B03F-61FE2B9DF25A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 2050,
+  "clippingMaskMode": 0,
+  "do_objectID": "66CA9AE6-7B6F-46DD-84DF-0568FD633184",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BDBF62E6-A85E-4790-A739-B61608C770AA",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "ACC8AFC8-F33D-4F15-8A28-3D4FCEEE7A8E",
+    "height": 26,
+    "width": 118,
+    "x": -63,
+    "y": -960
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2BE02683-7D20-4809-847B-7B245777C771"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "73DDBFFA-399F-4F64-B8C0-782B375F8CEB",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "411D32BA-E6C2-44A6-A09F-8CC8CF32387E"
+    },
+    {
+      "class": "group",
+      "id": "8780ED63-1038-4C51-A22C-680B067E6DE9"
+    }
+  ],
+  "name": "Branding/DanaCita",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C2782B38-3E1C-4039-AF77-005FEF5EC5B4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AC8D70EE-2BFE-41D2-8BD2-B78C7E702123",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0E8DC348-FF3E-4A03-843F-B80E704B2EDD",
+    "guides": [
+    ]
+  }
+}

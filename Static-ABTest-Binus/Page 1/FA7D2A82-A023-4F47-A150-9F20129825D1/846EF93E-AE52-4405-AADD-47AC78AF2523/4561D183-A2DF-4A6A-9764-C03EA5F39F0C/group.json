@@ -1,0 +1,104 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4561D183-A2DF-4A6A-9764-C03EA5F39F0C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C42434AC-0292-4496-807A-71E15250175A",
+    "height": 170,
+    "width": 1110,
+    "x": 170,
+    "y": 93
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "49DE1489-A09A-46A6-BE38-90B86D50F5F3"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "76E3FD90-3A91-41B3-902A-5233C0712187"
+    },
+    {
+      "class": "text",
+      "id": "6DDDEAA7-DBCD-465A-AF1D-8BCA9CBE4EB4"
+    },
+    {
+      "class": "text",
+      "id": "D3C26B0B-8CE5-44CF-B471-19413C952544"
+    },
+    {
+      "class": "text",
+      "id": "29D9E970-13DE-4E91-9917-111453B67137"
+    },
+    {
+      "class": "text",
+      "id": "5C00890F-8D67-40D7-96B2-538FFC823EC6"
+    },
+    {
+      "class": "text",
+      "id": "E47B960D-1B21-4456-9BDC-60867EDC908F"
+    },
+    {
+      "class": "text",
+      "id": "21FC777F-AE4D-4688-939B-116003ACE70A"
+    },
+    {
+      "class": "text",
+      "id": "FFC57AF5-0898-4575-A0E2-D95092DFADF3"
+    },
+    {
+      "class": "group",
+      "id": "917920D9-2B86-4D4C-A9CF-1F0B85A51E42"
+    },
+    {
+      "class": "group",
+      "id": "DF3E7918-935D-4906-BF91-664D7667EE67"
+    },
+    {
+      "class": "shapePath",
+      "id": "17A03923-224E-44BD-9FCA-E1E0D9999D3D"
+    },
+    {
+      "class": "shapePath",
+      "id": "01CC9C12-E983-4E5D-A76B-CD32247C5CA5"
+    },
+    {
+      "class": "shapePath",
+      "id": "7B8AFE1A-580D-493F-BB3E-AD2392BC277D"
+    }
+  ],
+  "name": "Group",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "88785870-3554-4F5D-8F73-F9B8D780DA43",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D832F058-A2A5-409A-8A75-FC1D330C318B",
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "B3A44BC4-9947-4FE5-8529-844EF5DB2E07"
+    },
+    {
+      "class": "artboard",
+      "id": "C0C943BF-1A77-4556-A2E6-F5248EDEA8A7"
+    },
+    {
+      "class": "artboard",
+      "id": "010CC908-1007-44E8-9A17-18DA599FF0DD"
+    },
+    {
+      "class": "artboard",
+      "id": "9C4DC54C-CF03-4DFA-BDB0-23CB37E43830"
+    },
+    {
+      "class": "artboard",
+      "id": "9F2B59E3-230D-4BFE-A60C-20684B76B81C"
+    },
+    {
+      "class": "artboard",
+      "id": "1F4E1A49-0064-4229-801F-2918F455ED40"
+    },
+    {
+      "class": "artboard",
+      "id": "0970DF4C-F844-43D6-B7EB-2E291A1129E7"
+    },
+    {
+      "class": "artboard",
+      "id": "FAF12F60-98F5-4D3A-B7C1-1529EE41CA0E"
+    },
+    {
+      "class": "artboard",
+      "id": "C01B25CF-3585-4A74-B70E-36F445D9A1D0"
+    },
+    {
+      "class": "artboard",
+      "id": "38BD0AA1-CC83-4506-B43F-3E4DA2358532"
+    },
+    {
+      "class": "artboard",
+      "id": "B301F599-A169-40A6-9E62-56FCF3C8E4D8"
+    },
+    {
+      "class": "artboard",
+      "id": "5B04EB51-FD25-4730-8BAC-9B97E7DEF5AB"
+    },
+    {
+      "class": "artboard",
+      "id": "A3F763D8-175A-4B5B-B14D-858283B1B948"
+    },
+    {
+      "class": "artboard",
+      "id": "DF50A7DD-A6EA-40D4-8EAA-3852FD245606"
+    },
+    {
+      "class": "artboard",
+      "id": "96BF5893-0A3C-4AB2-BC3C-EB8E14E00E86"
+    },
+    {
+      "class": "artboard",
+      "id": "B8DEDD3E-9A9B-460D-BCB8-68D2F155444A"
+    },
+    {
+      "class": "artboard",
+      "id": "2E9C5B34-94DD-4BBF-84F5-8D839520FD2B"
+    },
+    {
+      "class": "artboard",
+      "id": "F045CCE5-AC44-4A99-BDF9-F87D5C60C3AB"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "__XCODE_PLUGIN_IDENTIFIER__": {
+      "__XCODE_PLUGIN_IDENTIFIER__:docExportOptions": {
+        "exportDensity": 1,
+        "includeFlows": 0
+      }
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.animaPageID": "2CEC0742-2EDD-412C-9A0F-36B8C7368111",
+      "com.animaapp.uses.anima": 1,
+      "draft:0b1886a88036702208c6a49faaf16670": "https://projects.animaapp.com/#/p/rT7xaDg/e2uaqxP/var2/prototype",
+      "pid": "5c57ef86f2f9e3000a33563b"
+    },
+    "io.proto.overflow-test1": {
+      "docUUID": "0669CA7D-F2FE-4F6C-AB80-8D6A89AC7CEC"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

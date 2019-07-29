@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2ED29686-33E5-48D5-BFAF-AA302500D211",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 328,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/Form/Switch/Left",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2D79152-D5EE-4765-B861-6AAACEEB4AD0",
+      "overrideName": "EF7587D0-6DB6-4856-BD3E-557DFE8EF930_stringValue",
+      "value": "Belum Bekerja"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6D44C14E-78AA-486F-9B8B-BECC3CB96CA2",
+      "overrideName": "4B548971-E3B0-43A2-9695-AC02B7A8A779_stringValue",
+      "value": "Sudah Bekerja"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "B2F5F7DA-00A2-42AD-B4EB-FC06EB1431BA",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,86 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A23292D4-2403-467C-9953-A6897392988E",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF900542-A8E7-4F8F-A68B-0FA31CC31442",
+    "height": 18,
+    "width": 17,
+    "x": 4,
+    "y": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1D37B868-8730-4955-8646-1D6F6BA75BDF"
+    },
+    {
+      "class": "rectangle",
+      "id": "B8AA0C60-6692-4EDA-A3C4-6B79BB90F935"
+    },
+    {
+      "class": "shapePath",
+      "id": "52A9693D-77FA-4357-BD18-9907E6946D49"
+    },
+    {
+      "class": "shapePath",
+      "id": "C3767511-6733-43EE-87B1-EF0CA1AEB857"
+    },
+    {
+      "class": "shapePath",
+      "id": "66D12ECF-3ACE-440A-B0A0-B9493D53401B"
+    }
+  ],
+  "name": "iconsmallCalendar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8EEAE666-2BA6-4D5F-8B16-AFC4861A3A2A",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

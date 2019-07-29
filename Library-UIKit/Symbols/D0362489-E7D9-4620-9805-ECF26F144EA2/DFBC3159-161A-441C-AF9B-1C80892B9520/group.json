@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DFBC3159-161A-441C-AF9B-1C80892B9520",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 32,
+    "x": 9,
+    "y": 6
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FFE94D75-8E8D-44E3-B46E-9934C85BEF6C"
+    },
+    {
+      "class": "shapePath",
+      "id": "EE0817AB-0105-4EC6-A210-32D294EB69BB"
+    },
+    {
+      "class": "shapePath",
+      "id": "630D3CF6-4F34-44FE-9C0A-96F120A346E2"
+    },
+    {
+      "class": "shapePath",
+      "id": "FF3FA71A-8F35-4E9C-AB4C-8661E2BF71F4"
+    },
+    {
+      "class": "oval",
+      "id": "49214549-24BF-4FED-8826-889508EBE619"
+    },
+    {
+      "class": "oval",
+      "id": "4A099822-97A1-4ADC-93DB-C6CF4121E572"
+    },
+    {
+      "class": "group",
+      "id": "6935A09F-87E6-43E5-A1B9-250E10A80549"
+    }
+  ],
+  "name": "Icon/ProgressBar/Penjamin/Disable",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1A1827F9-8C44-4112-925F-5BA4A12D01A2",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "752C0722-DD64-4885-B4AC-0C76317F92F0",
+    "height": 46,
+    "width": 37,
+    "x": 0,
+    "y": 12
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FA7EBEFB-CD67-44D8-9F6C-598E544C32F6"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D11281BF-4BBC-4A94-8E6C-FDDF3201D29F"
+    },
+    {
+      "class": "shapePath",
+      "id": "3F16B0E8-E3CC-4299-9C45-785C7293FD88"
+    },
+    {
+      "class": "shapePath",
+      "id": "A46196DD-A8CA-45CE-9125-17AF9B02CE21"
+    },
+    {
+      "class": "shapePath",
+      "id": "9DD9C528-81AA-4DB2-BAB3-78BCA593897A"
+    },
+    {
+      "class": "shapePath",
+      "id": "678720AF-6C3E-4BBC-B0F8-F45DE551B0A5"
+    },
+    {
+      "class": "shapePath",
+      "id": "71EEC4A7-68BD-4211-A88D-8B1EF1239FDF"
+    }
+  ],
+  "name": "013-briefcase",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DC1264E2-44FE-40EF-A0E2-10AB1B6BF05B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 48,
+            "enabled": 1,
+            "modelID": "constraint_bfc7832e-0fe1-4071-9911-71ca82fe6628",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 38.9434
+          },
+          "automatic": 1,
+          "height": {
+            "constant": 48,
+            "enabled": 1,
+            "modelID": "constraint_7c110b54-8ca1-40c5-8d04-49004fd4d9af",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_23e0ed4c-c907-49c7-bd0e-c142c93d22f9",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

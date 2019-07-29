@@ -1,0 +1,80 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "75ADB9C4-6CC3-450C-B60D-AACF355858CB",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4427664-175B-4030-86C2-14966DAE99F0",
+    "height": 52,
+    "width": 79,
+    "x": 0,
+    "y": 5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CE313EDA-8305-434D-BCD6-559DE9151CB2"
+    },
+    {
+      "class": "group",
+      "id": "6929608D-60E4-450A-8ABA-E83AED75DECF"
+    }
+  ],
+  "name": "Content",
+  "nameIsFixed": true,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CB1C9DEB-13B4-4F3E-BB53-EA385C1ED2CA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "left": {
+            "constant": 0,
+            "enabled": 1,
+            "modelID": "constraint_a3e07920-dc4b-42a2-83ad-733e59bfa367",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_c146f1e3-b297-4e57-a3e3-2c56d7846f2f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        },
+        "padding": {
+          "bottom": 14,
+          "left": 10,
+          "modelID": "viewPadding_bf6b1c62-e121-4c10-8298-94cfc1a74446",
+          "model_class": "ADModelViewPadding",
+          "model_version": 0.1,
+          "right": 10,
+          "top": 14
+        }
+      }
+    }
+  }
+}

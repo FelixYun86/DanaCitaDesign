@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "70040204-E8AE-48B4-92E6-504ACB4AE59B",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "72DBC9BC-769E-4522-A19D-9C6A89481566",
+    "height": 48,
+    "width": 328,
+    "x": 16,
+    "y": 1534
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "2DFD4E3D-3CD0-46BC-AE15-AD23089FAE00"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "52B7CEDD-65A0-4043-9F25-D913B4358318"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5C12C395-3D2A-4931-956F-602DF1247710"
+    },
+    {
+      "class": "text",
+      "id": "C6BDAA16-AD03-430B-99E4-9941AD604873"
+    }
+  ],
+  "name": "Frame/FAQ Entry",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FA9968AA-C780-4CED-B67A-719A95292184",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

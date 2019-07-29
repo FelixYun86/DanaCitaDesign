@@ -1,0 +1,96 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "85182E40-9D29-4359-AB29-5FBE7612FBA7",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 4066,
+    "width": 360,
+    "x": 1649,
+    "y": -251
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "000816C0-8EE3-4B00-9117-BEAF26F32852"
+    },
+    {
+      "class": "group",
+      "id": "79F81AFB-95A1-47B1-BB23-E33A272CAE66"
+    },
+    {
+      "class": "text",
+      "id": "F2E10327-4D6F-4DD4-BCF0-5743F8000800"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "100DE257-ABB9-4213-AE81-3C6676DF7BDF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D513B0FB-E7E5-4C5B-BACE-8C3B0864A59E"
+    },
+    {
+      "class": "group",
+      "id": "0F787A8C-1F6B-41F1-92E4-D07C4ADD94F9"
+    },
+    {
+      "class": "text",
+      "id": "55F1DE41-8E43-4D94-ABA4-A22E7988A702"
+    },
+    {
+      "class": "bitmap",
+      "id": "331BFFF2-E53F-40A0-86E2-3A9F8E137A48"
+    }
+  ],
+  "name": "Android",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 640,
+    "name": "Android",
+    "offersLandscapeVariant": 1,
+    "width": 360
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

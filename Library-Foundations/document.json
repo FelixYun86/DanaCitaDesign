@@ -1,0 +1,380 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9372549019607843,
+          "green": 0.9372549019607843,
+          "red": 0.9372549019607843
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.7490196078431373,
+          "green": 0.7490196078431373,
+          "red": 0.7490196078431373
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5176470588235293,
+          "green": 0.5176470588235293,
+          "red": 0.5176470588235293
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.4360384778911565,
+          "green": 0.4360384778911565,
+          "red": 0.4360384778911565
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3215686274509804,
+          "green": 0.3215686274509804,
+          "red": 0.3215686274509804
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9803921568627451,
+          "green": 0.9137254901960784,
+          "red": 0.8627450980392157
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9372549019607843,
+          "green": 0.5294117647058826,
+          "red": 0.2705882352941176
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.6666666666666666,
+          "green": 0.3176470588235294,
+          "red": 0.192156862745098
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2588235294117647,
+          "green": 0.6745098039215687,
+          "red": 0.9882352941176471
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5019607843137254,
+          "green": 0.1450980392156862,
+          "red": 0.807843137254902
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.384313725490196,
+          "green": 0.6901960784313725,
+          "red": 0.1803921568627451
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.08933423913043478,
+          "blue": 0.6666666666666666,
+          "green": 0.3176470588235294,
+          "red": 0.192156862745098
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.3153872282608696,
+          "blue": 0.2588235294117647,
+          "green": 0.6745098039215687,
+          "red": 0.9882352941176471
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 0.1807348278985507,
+          "blue": 0.5019607843137254,
+          "green": 0.1450980392156862,
+          "red": 0.807843137254902
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.2588235294117649,
+          "green": 0.1058823529411765,
+          "red": 0.7764705882352941
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.481797406462585,
+          "green": 0.239839153149775,
+          "red": 0.1528429272395511
+        }
+      },
+      {
+        "_class": "MSImmutableColorAsset",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3019607843137254,
+          "green": 0.3019607843137254,
+          "red": 0.9137254901960784
+        }
+      }
+    ],
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9372549019607843,
+        "green": 0.9372549019607843,
+        "red": 0.9372549019607843
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.847,
+        "green": 0.847,
+        "red": 0.847
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7490196078431373,
+        "green": 0.7490196078431373,
+        "red": 0.7490196078431373
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5176470588235293,
+        "green": 0.5176470588235293,
+        "red": 0.5176470588235293
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4360384778911565,
+        "green": 0.4360384778911565,
+        "red": 0.4360384778911565
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3215686274509804,
+        "green": 0.3215686274509804,
+        "red": 0.3215686274509804
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9803921568627451,
+        "green": 0.9137254901960784,
+        "red": 0.8627450980392157
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9372549019607843,
+        "green": 0.5294117647058826,
+        "red": 0.2705882352941176
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.6666666666666666,
+        "green": 0.3176470588235294,
+        "red": 0.192156862745098
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2588235294117647,
+        "green": 0.6745098039215687,
+        "red": 0.9882352941176471
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5019607843137254,
+        "green": 0.1450980392156862,
+        "red": 0.807843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.384313725490196,
+        "green": 0.6901960784313725,
+        "red": 0.1803921568627451
+      },
+      {
+        "_class": "color",
+        "alpha": 0.08933423913043478,
+        "blue": 0.6666666666666666,
+        "green": 0.3176470588235294,
+        "red": 0.192156862745098
+      },
+      {
+        "_class": "color",
+        "alpha": 0.3153872282608696,
+        "blue": 0.2588235294117647,
+        "green": 0.6745098039215687,
+        "red": 0.9882352941176471
+      },
+      {
+        "_class": "color",
+        "alpha": 0.1807348278985507,
+        "blue": 0.5019607843137254,
+        "green": 0.1450980392156862,
+        "red": 0.807843137254902
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2588235294117649,
+        "green": 0.1058823529411765,
+        "red": 0.7764705882352941
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.481797406462585,
+        "green": 0.239839153149775,
+        "red": 0.1528429272395511
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.3019607843137254,
+        "green": 0.3019607843137254,
+        "red": 0.9137254901960784
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "0D554462-B8A0-4305-BAB8-F49D283BA512",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "55.2",
+    "version": 119
+  },
+  "pages": [
+    "Foundations"
+  ],
+  "userInfo": {
+    "com.abstractapp.sketchplugin.1685a5c9-5230-4d37-963c-5efa0f361065": {
+      "metadata": {
+        "branchId": "master",
+        "branchName": "Master",
+        "fileId": "0D554462-B8A0-4305-BAB8-F49D283BA512",
+        "fileTreeSha": "876c60aa760bc165a70d4cecc41701165b558ecb",
+        "name": "DC-Foundations",
+        "projectId": "d5897f4f-0dcf-444d-b202-568bf894c8e8",
+        "projectName": "",
+        "readOnly": true,
+        "sha": "3283922f4e46adeb930945d6b6366d36f3d32f06",
+        "version": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E4E0B998-0971-44AF-A298-AC57D96D9040",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D4CE0E4A-1E11-4C05-8C8D-27C3A6131464",
+    "height": 24,
+    "width": 360,
+    "x": 0,
+    "y": 136
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Popup Bar",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8C0126C8-46D9-46EA-B594-7995B4B78DFC",
+      "overrideName": "40924FCE-2952-4B57-B9D0-429B56E88C29_symbolID",
+      "value": "06A3C014-9FB3-4994-9011-F46AF8ACE62A"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D0ED2FF-A898-4E7A-ACBA-E56403E95A95",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C39BD244-E327-4553-B631-D1F6237A225F",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8A4A6575-1A25-467E-825F-53EDEA76B732",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 111,
+    "width": 328,
+    "x": 0,
+    "y": 272
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/TextField Copy 20",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F13E6CE2-8ADC-4022-91A6-F608668A0645_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "DBC12B36-8774-4B9C-A0DC-B7F64981B632_stringValue",
+      "value": " "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76B2D23A-70FE-4527-8CFC-6225633D524C",
+      "overrideName": "E0F9495A-7C23-46EA-8B7B-FE34426BCC3F_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9EA80FFE-92FD-4EB2-8C5D-890CCA830420",
+      "overrideName": "EFE5E7E0-23B1-4735-9ED7-219F317796EE/02A3595A-349C-497B-B9A4-0499AD06C02D_stringValue",
+      "value": "Alamat Perusahaan"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CE5288E7-0E3A-4340-8DF8-02333FBDB069",
+  "verticalSpacing": 0
+}

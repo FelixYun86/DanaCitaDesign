@@ -1,0 +1,89 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2359876E-3B36-4C0F-8B3F-2E1FCAE92ECB",
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -465,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "66CA9AE6-7B6F-46DD-84DF-0568FD633184"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B38A43F7-B433-40B8-B15E-6C3A415619F9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0A8E1571-7583-4485-979A-54BFEB5168FB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "A1300DBF-1BB0-437A-8D16-2F579D4F22EB"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EE804169-F317-4CFB-B604-21784409EB80"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4C36EEF4-B602-4051-9FCA-B4A3D79D56E4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D67C1CD0-82AE-4EB1-A95B-41DA05D7F28B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "42FCC727-22DE-4B86-A9D3-8A8CF1466977"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "68FAD0BF-AEAC-49BF-B439-4CB45DCFEC34"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "D71767C5-BBF6-4EC4-B137-A2043B10AE7A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7B25663D-F301-486B-BA73-A9CDBC156CDA"
+    }
+  ],
+  "name": "Foundations",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1,
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -422,
+    "guides": [
+    ]
+  }
+}

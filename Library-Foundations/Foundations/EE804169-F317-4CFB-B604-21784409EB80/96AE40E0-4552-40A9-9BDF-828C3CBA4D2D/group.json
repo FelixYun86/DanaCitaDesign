@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "96AE40E0-4552-40A9-9BDF-828C3CBA4D2D",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "946B87EF-8EE8-45F5-9017-A55EBEA0BC2C",
+    "height": 26,
+    "width": 118,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C53AFFC5-2D42-4510-ADB6-5955B8FD87C4"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9E88646F-1C0A-43B1-AF9F-5977D433FF64"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2B707811-F9CE-4A5F-9C9C-E80668855430"
+    },
+    {
+      "class": "shapePath",
+      "id": "1295400F-1104-4873-8AB8-CFB6CAC24957"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "39E570E3-9601-4CF0-909E-62D5074E2921"
+    },
+    {
+      "class": "shapePath",
+      "id": "97F3C2D0-FF94-418E-8022-4092F55D7ADE"
+    },
+    {
+      "class": "shapePath",
+      "id": "6D7A136D-53BC-4FEA-86CF-6E2C2EB7D5E4"
+    },
+    {
+      "class": "shapePath",
+      "id": "EB1AAEAA-534C-44E4-B58F-9A464781AE12"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "794731AE-E963-4476-BF27-4050323FE4EC"
+    },
+    {
+      "class": "group",
+      "id": "087B433A-3A96-4B46-AD1F-BEE4E44EE1A1"
+    }
+  ],
+  "name": "Branding/Logo Full",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "48DB318B-476B-4B6B-8E84-BCED7F628B91",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

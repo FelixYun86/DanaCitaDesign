@@ -1,0 +1,67 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EDB419D2-18AD-4903-8094-20DC1B9431ED",
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -359,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "B2A20E99-B709-4E46-8B2D-29596AFE3C96"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "27CB6B50-894E-458F-8BD7-27FEA06702A2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "667C6F0B-15DC-438A-8818-18AAF9E658A5"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "9492BDA0-44C2-460B-9383-9B337B538F2D"
+    },
+    {
+      "class": "bitmap",
+      "id": "27141FB3-92FE-48B5-8687-9EF6187D541B"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4043E914-31B7-460E-8D29-1CC8C2876B1D"
+    }
+  ],
+  "name": "Symbols",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "com.animaapp.uses.anima": 1
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -385,
+    "guides": [
+    ]
+  }
+}

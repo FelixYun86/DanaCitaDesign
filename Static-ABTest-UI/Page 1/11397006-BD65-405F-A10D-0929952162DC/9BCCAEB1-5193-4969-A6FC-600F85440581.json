@@ -1,0 +1,161 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9BCCAEB1-5193-4969-A6FC-600F85440581",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 304,
+    "width": 1100,
+    "x": 170,
+    "y": 36
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecules/Desktop/Section/3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3044F4D6-AD8F-4F80-ACAF-F8941F16E2F5",
+      "overrideName": "18FB9A1A-3C58-4500-8546-06499C318F9D_symbolID",
+      "value": "1D30ABFE-DF7D-4C62-8AA3-9BA867B79D36"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76CC6085-85C0-47DA-BE2A-33D033C581B0",
+      "overrideName": "CC506543-D9C3-4EE6-9382-B9A160FF5FE2_symbolID",
+      "value": "1D30ABFE-DF7D-4C62-8AA3-9BA867B79D36"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A749A85D-2BC9-485A-8C4A-6A243C57D8A5",
+      "overrideName": "5E875415-5606-4BA3-803A-4A3E4E9DE987_symbolID",
+      "value": "1D30ABFE-DF7D-4C62-8AA3-9BA867B79D36"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9A97D0EF-CAF8-47EF-B93D-5E6AC578B2F3",
+      "overrideName": "844928B0-1646-41E2-BF12-48E78B19D9A5_symbolID",
+      "value": "1D30ABFE-DF7D-4C62-8AA3-9BA867B79D36"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "613B9458-CEC7-4081-A6B8-0FF0ADC2C8C9",
+      "overrideName": "18FB9A1A-3C58-4500-8546-06499C318F9D/38D08A91-7592-485E-95AA-D0E727E98444_stringValue",
+      "value": "Fleksibel"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5524B602-D5E7-4A2C-ACA0-928776C5AD71",
+      "overrideName": "CC506543-D9C3-4EE6-9382-B9A160FF5FE2/38D08A91-7592-485E-95AA-D0E727E98444_stringValue",
+      "value": "Cepat"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E82D2E2A-FE7C-4085-A6B6-11FDBCBDB1DC",
+      "overrideName": "5E875415-5606-4BA3-803A-4A3E4E9DE987/38D08A91-7592-485E-95AA-D0E727E98444_stringValue",
+      "value": "Terkelola"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BC1438C0-F041-4AAA-8B81-4082D7B9B803",
+      "overrideName": "844928B0-1646-41E2-BF12-48E78B19D9A5/38D08A91-7592-485E-95AA-D0E727E98444_stringValue",
+      "value": "Terjangkau"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AD0A7ED5-5EAA-4B12-93F3-238036BB774B",
+      "overrideName": "18FB9A1A-3C58-4500-8546-06499C318F9D/6F479247-E371-425A-8F7A-FF2C0014DBFA_stringValue",
+      "value": "Top Up per Semester sesuai kebutuhanmu. Ada dana tambahan? Bebas melunasi langsung tanpa denda."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3227EC89-8A6E-4A1A-BE35-1532045E99B2",
+      "overrideName": "CC506543-D9C3-4EE6-9382-B9A160FF5FE2/6F479247-E371-425A-8F7A-FF2C0014DBFA_stringValue",
+      "value": "Proses 100% Online hingga pencairan. 3 hari kerja cair untuk peminjam baru. 1 hari kerja cair bagi peminjam setia."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "83CD2253-D787-40FC-A175-C1A6BFF5554B",
+      "overrideName": "5E875415-5606-4BA3-803A-4A3E4E9DE987/6F479247-E371-425A-8F7A-FF2C0014DBFA_stringValue",
+      "value": "Dana Anda langsung kami cairkan ke Universitas Indonesia tanpa melalui rekening pribadi. "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B5DD8CEE-B00C-4DDF-B919-E4F8DF1F4542",
+      "overrideName": "844928B0-1646-41E2-BF12-48E78B19D9A5/6F479247-E371-425A-8F7A-FF2C0014DBFA_stringValue",
+      "value": "Bunga rendah mulai dari 1% per bulan dan tenor panjang hingga 24 bulan."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BD96B56E-E17D-4FFE-BF94-57BC3FD40C04",
+      "overrideName": "CC506543-D9C3-4EE6-9382-B9A160FF5FE2/1900B7B1-D937-453B-9B86-F04511014733_symbolID",
+      "value": "6F7A7B9B-FEF5-4E43-9DB2-3DB73D29E805"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8462E79A-D0E5-431A-8B19-E63F6AEEBA45",
+      "overrideName": "5E875415-5606-4BA3-803A-4A3E4E9DE987/1900B7B1-D937-453B-9B86-F04511014733_symbolID",
+      "value": "6661D544-C856-4487-A8CB-90137DD43F55"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D50F2CDC-2936-42EC-A248-E726D9292F41",
+      "overrideName": "18FB9A1A-3C58-4500-8546-06499C318F9D/1900B7B1-D937-453B-9B86-F04511014733_symbolID",
+      "value": "64C00A6D-0075-4F16-B64C-EBCE49C86AD1"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "ED5B432B-A9D6-4598-B8F8-7A2BDD00C549",
+      "overrideName": "844928B0-1646-41E2-BF12-48E78B19D9A5/1900B7B1-D937-453B-9B86-F04511014733_symbolID",
+      "value": "B4E2735E-0B66-4943-A02D-50651BE83458"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "67D10F24-272C-4042-A74C-7A2A678022ED",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1563081631.575249
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

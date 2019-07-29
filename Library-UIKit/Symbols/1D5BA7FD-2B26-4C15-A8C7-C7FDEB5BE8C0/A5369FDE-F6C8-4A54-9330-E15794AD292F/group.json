@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5369FDE-F6C8-4A54-9330-E15794AD292F",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 35,
+    "width": 32,
+    "x": 9,
+    "y": 8
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "6544D2AC-17E3-4899-9D85-F669405107D4"
+    },
+    {
+      "class": "oval",
+      "id": "012CADF7-1E90-4F47-BBE5-9184D21D4105"
+    },
+    {
+      "class": "oval",
+      "id": "64A81BF7-79E7-4AD3-A9AF-E47818CF1B40"
+    },
+    {
+      "class": "shapePath",
+      "id": "7CB39BB6-DE8B-4C90-9075-7551ABE8F200"
+    },
+    {
+      "class": "rectangle",
+      "id": "AE63AB86-98C0-43E7-BBCA-D01484B2CB19"
+    }
+  ],
+  "name": "icon/color/peminjam",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

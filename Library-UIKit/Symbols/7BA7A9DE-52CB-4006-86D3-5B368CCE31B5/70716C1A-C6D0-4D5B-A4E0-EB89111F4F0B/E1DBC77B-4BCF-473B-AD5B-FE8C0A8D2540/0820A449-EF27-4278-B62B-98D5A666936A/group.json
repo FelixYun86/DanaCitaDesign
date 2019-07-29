@@ -1,0 +1,122 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0820A449-EF27-4278-B62B-98D5A666936A",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 118,
+    "x": 16,
+    "y": 15
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F7FE23C0-2ECC-4E9B-88CA-C85376258B4F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AC7D9CAB-6A57-4B28-AEA4-E183DAC6C35D"
+    },
+    {
+      "class": "shapePath",
+      "id": "9A2965C9-4FB9-421D-AFB9-2D57840196BA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7F05CC36-2DA9-432E-B79D-68F320C0320F"
+    },
+    {
+      "class": "shapePath",
+      "id": "872999D9-9E34-4474-91C3-D226DD50CADB"
+    },
+    {
+      "class": "shapePath",
+      "id": "3FDEC2EF-392D-47D9-805E-F056120F2817"
+    },
+    {
+      "class": "shapePath",
+      "id": "D5294B77-6E0D-4100-A755-2E01E07C2BB5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "90D11037-34B2-414D-B69B-2686FB77EFE3"
+    },
+    {
+      "class": "group",
+      "id": "61448788-27CC-4A02-B6B8-4B7263C69946"
+    }
+  ],
+  "name": "Branding/Logo Full",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "automatic": 1,
+          "height": {
+            "constant": 26,
+            "enabled": 1,
+            "modelID": "constraint_f6692c3a-8b58-49ce-b1ca-50a11085b5f3",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "left": {
+            "constant": 16,
+            "enabled": 1,
+            "modelID": "constraint_354269c4-22af-47ba-abff-59fc50a9239e",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "modelID": "viewConstraints_5429a98b-13d4-47eb-ab30-85580925ddae",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1,
+          "top": {
+            "constant": 15,
+            "enabled": 1,
+            "modelID": "constraint_34a0c2a9-e69b-4574-a907-18c43e6b8313",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          },
+          "width": {
+            "constant": 118,
+            "enabled": 1,
+            "modelID": "constraint_9afd1b71-0671-43f4-9a9b-c3c08ddfec86",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 0
+          }
+        }
+      },
+      "kViewTypeKey": ""
+    }
+  }
+}
