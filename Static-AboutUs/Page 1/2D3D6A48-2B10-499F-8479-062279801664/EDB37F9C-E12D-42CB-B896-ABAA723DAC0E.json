@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 14,
         "location": 0
       }
     ],
-    "string": "Director"
+    "string": "Direktur Utama"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 142,
-    "x": 202,
-    "y": 835
+    "width": 540,
+    "x": 503,
+    "y": 745
   },
-  "glyphBounds": "{{1, 6}, {68, 15}}",
+  "glyphBounds": "{{1, 6}, {128, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Director",
+  "name": "Direktur Utama",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

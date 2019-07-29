@@ -3,11 +3,20 @@
   "booleanOperation": -1,
   "clippingMaskMode": 0,
   "do_objectID": "5B9C2DB2-EE4A-4964-B999-F15CB9D26F79",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
     "height": 34,
-    "width": 142,
+    "width": 141,
     "x": 0,
     "y": 0
   },
@@ -44,7 +53,7 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "size.update": 1562825409.819837,
+        "size.update": 1564376012.044241,
         "stashedSizeV": [
           {
             "constant": 328,

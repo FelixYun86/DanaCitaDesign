@@ -3,6 +3,23 @@
   "booleanOperation": -1,
   "clippingMaskMode": 0,
   "do_objectID": "D832F058-A2A5-409A-8A75-FC1D330C318B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
@@ -101,6 +118,13 @@
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
   "userInfo": {
     "__XCODE_PLUGIN_IDENTIFIER__": {
       "__XCODE_PLUGIN_IDENTIFIER__:docExportOptions": {

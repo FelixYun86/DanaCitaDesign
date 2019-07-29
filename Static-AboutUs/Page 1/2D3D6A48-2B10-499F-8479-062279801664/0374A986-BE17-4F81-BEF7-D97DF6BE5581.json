@@ -17,10 +17,10 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "ProximaNova-Regular",
-              "size": 20
+              "size": 18
             }
           },
-          "kerning": -0.5,
+          "kerning": -0.45,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 426,
+        "length": 694,
         "location": 0
       }
     ],
-    "string": "Naga Tan is currently the Director of Dana Cita PTE LTD. He holds an MBA from The Wharton School, an MA in International Studies from the Lauder Institute at the University of Pennysylvania, and a first-class hounours degree in Economics from the London School of Economics. Before co-founding Dana Cita, Naga worked as a fixed income trader at Morgan Stanley in London and in the Hedge Fund Strategies Group at Goldman Sachs."
+    "string": "Lahir dan besar di Singapura, Naga adalah lulusan dari London School of Economics dengan gelar Sarjana first-class honors, serta gelar Magister dari The Wharton School (MBA) dan Lauder Institute di University of Pennsylvania. \n\nSebelum mendirikan Dana Cita, Naga menjajaki karier sebagai fixed income trader di beberapa lembaga perbankan terkemuka di dunia, yaitu Morgan Stanley dan Goldman Sachs di divisi Hedge Fund Strategies Group, berkedudukan di London.\n\nBersama dengan Susli, Naga adalah co-founder dari Dana Cita. Beliau berperan sebagai Komisaris dan berwewenang dalam jabatannya untuk mengawasi kegiatan usaha Dana Cita yang diselenggarakan oleh tim manajemen dan direktur perusahaan."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 216,
-    "width": 459,
-    "x": 202,
-    "y": 1357
+    "height": 240,
+    "width": 828,
+    "x": 503,
+    "y": 1244
   },
-  "glyphBounds": "{{0, 6}, {448, 210}}",
+  "glyphBounds": "{{0, 5}, {825, 237}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Naga Tan is currentl",
+  "name": "Lahir dan besar di S",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -91,10 +91,10 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "ProximaNova-Regular",
-            "size": 20
+            "size": 18
           }
         },
-        "kerning": -0.5,
+        "kerning": -0.45,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
@@ -106,7 +106,7 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1,
+  "textBehaviour": 2,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {

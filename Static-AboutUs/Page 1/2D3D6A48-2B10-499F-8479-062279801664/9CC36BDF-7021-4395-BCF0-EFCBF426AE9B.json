@@ -9,18 +9,18 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.3215686274509804,
-            "green": 0.3215686274509804,
-            "red": 0.3215686274509804
+            "blue": 0.6666666666666666,
+            "green": 0.3176470588235294,
+            "red": 0.192156862745098
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "ProximaNova-Bold",
-              "size": 24
+              "size": 28
             }
           },
-          "kerning": -0.6,
+          "kerning": -0.7,
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "BC283F54-DB9C-4C94-BF72-AC8ED2469A5A",
-    "height": 29,
-    "width": 142,
-    "x": 202,
-    "y": 806
+    "height": 34,
+    "width": 540,
+    "x": 503,
+    "y": 711
   },
-  "glyphBounds": "{{0, 7}, {85, 18}}",
+  "glyphBounds": "{{0, 8}, {99, 21}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -72,7 +72,7 @@
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "5776C74B-E3A8-4871-BA30-2D488D67EB18",
+  "sharedStyleID": "E05A0DD6-1A57-40C7-8BE8-DEF158EA4B45",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -86,18 +86,18 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3215686274509804,
-          "green": 0.3215686274509804,
-          "red": 0.3215686274509804
+          "blue": 0.6666666666666666,
+          "green": 0.3176470588235294,
+          "red": 0.192156862745098
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "ProximaNova-Bold",
-            "size": 24
+            "size": 28
           }
         },
-        "kerning": -0.6,
+        "kerning": -0.7,
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
@@ -105,7 +105,7 @@
         },
         "textStyleVerticalAlignmentKey": 0
       },
-      "verticalAlignment": 0
+      "verticalAlignment": 1
     },
     "windingRule": 1
   },

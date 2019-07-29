@@ -10,6 +10,15 @@
   "booleanOperation": -1,
   "clippingMaskMode": 0,
   "do_objectID": "5B04EB51-FD25-4730-8BAC-9B97E7DEF5AB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -71,6 +80,13 @@
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

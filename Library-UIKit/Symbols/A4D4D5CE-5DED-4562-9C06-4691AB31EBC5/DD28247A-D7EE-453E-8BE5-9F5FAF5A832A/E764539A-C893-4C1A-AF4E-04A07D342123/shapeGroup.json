@@ -3,6 +3,15 @@
   "booleanOperation": 0,
   "clippingMaskMode": 0,
   "do_objectID": "E764539A-C893-4C1A-AF4E-04A07D342123",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,

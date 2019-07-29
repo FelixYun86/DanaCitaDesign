@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 8,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "Director"
+    "string": "Komisaris"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 24,
-    "width": 142,
-    "x": 202,
-    "y": 1293
+    "width": 540,
+    "x": 503,
+    "y": 1183
   },
-  "glyphBounds": "{{1, 6}, {68, 15}}",
+  "glyphBounds": "{{1, 6}, {81, 15}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Director Copy",
+  "name": "Komisaris",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

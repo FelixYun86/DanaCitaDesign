@@ -191,10 +191,26 @@
       "libraryID": "0D554462-B8A0-4305-BAB8-F49D283BA512",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "AA614B80-191D-4286-977C-7BC3405CBC74",
-        "name": "Color/Blue Primary",
+        "do_objectID": "4B49D91F-41F1-4850-B19F-FF525D63C972",
+        "name": "Color/Grey 6",
         "value": {
           "_class": "style",
+          "borders": [
+            {
+              "_class": "border",
+              "color": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.592,
+                "green": 0.592,
+                "red": 0.592
+              },
+              "fillType": 0,
+              "isEnabled": false,
+              "position": 0,
+              "thickness": 1
+            }
+          ],
           "endMarkerType": 0,
           "fills": [
             {
@@ -202,9 +218,9 @@
               "color": {
                 "_class": "color",
                 "alpha": 1,
-                "blue": 0.9372549019607843,
-                "green": 0.5294117647058824,
-                "red": 0.2705882352941176
+                "blue": 0.3215686274509804,
+                "green": 0.3215686274509804,
+                "red": 0.3215686274509804
               },
               "fillType": 0,
               "isEnabled": true,
@@ -219,8 +235,8 @@
           "windingRule": 1
         }
       },
-      "remoteStyleID": "961C7478-D50C-4FA9-B546-92FEA78221AE",
-      "sourceLibraryName": "DC-Foundations (OJK July)",
+      "remoteStyleID": "022244C1-D4FE-41A5-97FC-46BCFB66A05D",
+      "sourceLibraryName": "Library-Foundations",
       "symbolPrivate": false
     }
   ],
@@ -12818,52 +12834,6 @@
       "libraryID": "0D554462-B8A0-4305-BAB8-F49D283BA512",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "5776C74B-E3A8-4871-BA30-2D488D67EB18",
-        "name": "Heading 5/Left/Bold/Grey6",
-        "value": {
-          "_class": "style",
-          "endMarkerType": 0,
-          "miterLimit": 10,
-          "startMarkerType": 0,
-          "textStyle": {
-            "_class": "textStyle",
-            "encodedAttributes": {
-              "MSAttributedStringColorAttribute": {
-                "_class": "color",
-                "alpha": 1,
-                "blue": 0.3215686274509804,
-                "green": 0.3215686274509804,
-                "red": 0.3215686274509804
-              },
-              "MSAttributedStringFontAttribute": {
-                "_class": "fontDescriptor",
-                "attributes": {
-                  "name": "ProximaNova-Bold",
-                  "size": 24
-                }
-              },
-              "kerning": -0.6,
-              "paragraphStyle": {
-                "_class": "paragraphStyle",
-                "alignment": 0,
-                "allowsDefaultTighteningForTruncation": 0
-              },
-              "textStyleVerticalAlignmentKey": 0
-            },
-            "verticalAlignment": 0
-          },
-          "windingRule": 1
-        }
-      },
-      "remoteStyleID": "5A421E77-3FC6-4460-9029-3C79AE12416D",
-      "sourceLibraryName": "DC-Foundations (OJK July)",
-      "symbolPrivate": false
-    },
-    {
-      "_class": "MSImmutableForeignTextStyle",
-      "libraryID": "0D554462-B8A0-4305-BAB8-F49D283BA512",
-      "localSharedStyle": {
-        "_class": "sharedStyle",
         "do_objectID": "6E2B2FF4-E552-414D-B0B0-3196CEA24125",
         "name": "Heading 4/Left/Regular/Grey5",
         "value": {
@@ -12910,8 +12880,8 @@
       "libraryID": "0D554462-B8A0-4305-BAB8-F49D283BA512",
       "localSharedStyle": {
         "_class": "sharedStyle",
-        "do_objectID": "BD400BF6-6F16-4C4E-BF13-FBDFFC644398",
-        "name": "Heading 5/Left/Bold/DarkBlue",
+        "do_objectID": "E05A0DD6-1A57-40C7-8BE8-DEF158EA4B45",
+        "name": "Heading 4/Left/Bold/DarkBlue",
         "value": {
           "_class": "style",
           "endMarkerType": 0,
@@ -12931,10 +12901,56 @@
                 "_class": "fontDescriptor",
                 "attributes": {
                   "name": "ProximaNova-Bold",
-                  "size": 24
+                  "size": 28
                 }
               },
-              "kerning": -0.6,
+              "kerning": -0.7,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0
+              },
+              "textStyleVerticalAlignmentKey": 0
+            },
+            "verticalAlignment": 1
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "613BBB9B-E436-4E2D-B6BF-946B84649FFA",
+      "sourceLibraryName": "Library-Foundations",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "0D554462-B8A0-4305-BAB8-F49D283BA512",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "21FD3427-50B9-4B25-AF4F-6D22EDEBE342",
+        "name": "Heading 6/Left/Regular/Grey5",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4360384778911565,
+                "green": 0.4360384778911565,
+                "red": 0.4360384778911565
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Regular",
+                  "size": 20
+                }
+              },
+              "kerning": -0.5,
               "paragraphStyle": {
                 "_class": "paragraphStyle",
                 "alignment": 0,
@@ -12947,8 +12963,54 @@
           "windingRule": 1
         }
       },
-      "remoteStyleID": "EEDB8BBE-73A7-49BB-8384-72298CCD1184",
-      "sourceLibraryName": "DC-Foundations (OJK July)",
+      "remoteStyleID": "31647656-0F9E-4315-B14C-873534DD4671",
+      "sourceLibraryName": "Library-Foundations",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "0D554462-B8A0-4305-BAB8-F49D283BA512",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "0DD80890-7C47-4E99-875A-C55559B4925F",
+        "name": "Body/Center/Regular/Grey6",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3215686274509804,
+                "green": 0.3215686274509804,
+                "red": 0.3215686274509804
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Regular",
+                  "size": 16
+                }
+              },
+              "kerning": -0.4000000059604645,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 2,
+                "allowsDefaultTighteningForTruncation": 0
+              },
+              "textStyleVerticalAlignmentKey": 0
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "CFAC53EB-8179-41B6-93C2-8BE30D299D25",
+      "sourceLibraryName": "Library-Foundations",
       "symbolPrivate": false
     }
   ],
@@ -12963,7 +13025,8 @@
     "version": 119
   },
   "pages": [
-    "Page 1"
+    "Page 1",
+    "Symbols"
   ],
   "userInfo": {
     "com.abstractapp.sketchplugin.1685a5c9-5230-4d37-963c-5efa0f361065": {

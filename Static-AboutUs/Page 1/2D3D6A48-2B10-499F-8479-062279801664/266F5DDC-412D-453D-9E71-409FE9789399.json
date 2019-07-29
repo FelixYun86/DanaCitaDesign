@@ -42,6 +42,12 @@
       "do_objectID": "914361D9-4C46-48A1-856A-F946C98120FD",
       "overrideName": "5D5C4D93-D652-4496-B90E-4360F9A4DF97_layerStyle",
       "value": "DCF88315-9027-4465-90ED-E15A803A73FE"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D04F47CA-03E2-4246-AD9E-6D26D0F6FC9E",
+      "overrideName": "EC674F42-5B90-4834-B84F-C279855DB9DB_stringValue",
+      "value": "Insert catchy punchline here"
     }
   ],
   "resizingConstraint": 63,

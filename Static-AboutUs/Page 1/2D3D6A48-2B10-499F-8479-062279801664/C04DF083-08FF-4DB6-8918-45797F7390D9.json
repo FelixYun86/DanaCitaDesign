@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "Dana Cita merupakan sebuah platform yang menyediakan solusi pembiayaan bagi pelajar, mahasiswa, maupun tenaga profesional untuk menempuh studi di lembaga pendidikan tinggi dan program kejuruan. Dalam rangka memperluas akses pendidikan dan mewujudkan aspirasi para pelajar, Dana Cita menghadirkan pinjaman pendidikan terjangkau untuk menjembatani kesenjangan pembiayaan di Indonesia."
+    "string": "Dana Cita merupakan sebuah platform yang menyediakan solusi pembiayaan bagi pelajar, mahasiswa, maupun tenaga profesional untuk menempuh studi di lembaga pendidikan tinggi dan program kejuruan. Dalam rangka memperluas akses pendidikan dan mewujudkan aspirasi para pelajar, Dana Cita menghadirkan pinjaman pendidikan terjangkau untuk menjembatani kesenjangan pendidikan di Indonesia."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 306,
-    "width": 592,
-    "x": 720,
+    "width": 611,
+    "x": 162,
     "y": 288
   },
-  "glyphBounds": "{{1, 9}, {587, 297}}",
+  "glyphBounds": "{{0, 9}, {606, 297}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
