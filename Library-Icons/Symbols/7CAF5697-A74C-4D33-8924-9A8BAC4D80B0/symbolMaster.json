@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 46,
   "clippingMaskMode": 0,
   "do_objectID": "7CAF5697-A74C-4D33-8924-9A8BAC4D80B0",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 222,
-    "y": 264
+    "x": 244,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,6 +60,11 @@
   "name": "Icon/Clock",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "80B397C0-9787-4DC7-8028-9E4A42F136A5_layerStyle"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

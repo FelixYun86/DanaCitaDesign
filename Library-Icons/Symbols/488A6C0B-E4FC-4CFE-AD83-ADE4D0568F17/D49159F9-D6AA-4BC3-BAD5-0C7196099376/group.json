@@ -1,0 +1,126 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D49159F9-D6AA-4BC3-BAD5-0C7196099376",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7280F155-3734-4870-BA97-AABEC0DA118F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CEC82BAE-906B-48EE-BAFE-C38210FD8F7D",
+    "height": 67,
+    "width": 72,
+    "x": 0,
+    "y": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "FAC705A1-BEE9-4282-AD70-EBC93D86447E"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4AE81674-A3FE-4359-B25F-1ADE82615971"
+    },
+    {
+      "class": "shapePath",
+      "id": "13990C8D-33C7-4247-BF26-4932EF929047"
+    },
+    {
+      "class": "shapePath",
+      "id": "ACDA9547-CBA9-4FA8-A628-A942FE1E4B4D"
+    },
+    {
+      "class": "shapePath",
+      "id": "F15F6BB0-7999-491D-9F5C-AA74585F0F21"
+    },
+    {
+      "class": "shapePath",
+      "id": "E335E9D5-C2B2-4915-83DB-7471E55C35C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "9F5D72DD-BEDC-49AE-BD2F-B45A16F575A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C13AB0D7-8197-470B-B13B-36761E8507C9"
+    },
+    {
+      "class": "shapePath",
+      "id": "C28E403E-1D02-47EB-B41D-91BF4FD0EB9B"
+    },
+    {
+      "class": "shapePath",
+      "id": "46389547-3C0C-4B96-B600-487DF0B48E64"
+    },
+    {
+      "class": "shapePath",
+      "id": "85EDCDC7-2F5C-411A-B29A-54F0A2EEE332"
+    },
+    {
+      "class": "shapePath",
+      "id": "45C8EFAC-62F9-4FF7-ACA4-25CC105F9A41"
+    },
+    {
+      "class": "shapePath",
+      "id": "6BBE8782-4767-4416-8C0F-DB1337780955"
+    },
+    {
+      "class": "shapePath",
+      "id": "30080B8C-F602-4F43-BF45-D8C89B994BD0"
+    }
+  ],
+  "name": "money",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "56F2ED05-9579-46D5-96B9-4C3B179F4884",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 66.25681,
+            "enabled": 1,
+            "modelID": "constraint_482fa48d-a9cb-464e-aee5-8dbc90518e07",
+            "model_class": "ADModelConstraint",
+            "model_version": 0,
+            "multiplier": 72
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_68359f85-7c2a-4400-a997-80728d5e0238",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 32,
   "clippingMaskMode": 0,
   "do_objectID": "14B1D7A0-5187-428B-BEB8-40C986DB0780",
   "exportOptions": {
@@ -26,14 +26,14 @@
     "constrainProportions": false,
     "height": 32,
     "width": 32,
-    "x": 222,
-    "y": 132
+    "x": 148,
+    "y": 0
   },
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -60,6 +60,11 @@
   "name": "Icon/Email",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "6FC3674E-E092-4625-807F-DDBA30E6943B_layerStyle"
+    }
   ],
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -1,0 +1,93 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "95503331-B29C-4970-B399-9F5613CAC0C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BABDE521-6381-4451-B480-A1E3A3E36E52",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EE9BD472-F108-4DE2-8D57-77CBB8D1D0BF",
+    "height": 63,
+    "width": 64,
+    "x": 4,
+    "y": 6
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D2054F09-D99A-4FB2-AA3C-56EB5F9D3F3C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B3BC7733-5022-44B3-9FE5-8912668B5728"
+    },
+    {
+      "class": "shapePath",
+      "id": "E3A06F1D-ABCB-4660-A51D-F0360EF1B7F3"
+    },
+    {
+      "class": "shapePath",
+      "id": "717D9EA8-EE53-4F76-B510-ACBA7F82E86A"
+    },
+    {
+      "class": "shapePath",
+      "id": "BF572C4F-D2BB-414A-8D35-AB2CB7F5384C"
+    },
+    {
+      "class": "shapePath",
+      "id": "DE270FC0-631B-4B25-B8C5-EE7CEC284D51"
+    },
+    {
+      "class": "shapePath",
+      "id": "3031F72E-F2C7-48FB-A2CD-C11D029D1274"
+    },
+    {
+      "class": "shapePath",
+      "id": "56D2B73B-86F9-4751-B9E6-B8CB4E6844E8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "19B2402E-8971-4E9E-945B-7D7F0CFA1C0A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B1E26CB5-7C27-4724-82E4-293F79A0AAB0"
+    },
+    {
+      "class": "shapePath",
+      "id": "D018B1C0-5020-4527-807A-AF2587AFA848"
+    }
+  ],
+  "name": "credit-card",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9FBFE4AF-D5BE-4636-9849-ECAD78ACE6E2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
