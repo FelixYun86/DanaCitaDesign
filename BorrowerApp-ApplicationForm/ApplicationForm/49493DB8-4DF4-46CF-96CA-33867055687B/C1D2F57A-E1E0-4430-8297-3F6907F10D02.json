@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C1D2F57A-E1E0-4430-8297-3F6907F10D02",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "766FC039-14A2-4BE9-921C-B9B538776CE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9F99BC7D-F922-4E56-9568-56C299AAB61D",
+    "height": 47,
+    "width": 328,
+    "x": 16,
+    "y": 358
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/Button/Primary Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3BC6FDC3-5426-4F11-ACE4-CF2B7AE455C8_stringValue",
+      "value": "Masuk"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9F1B16EC-BA43-450F-972B-1C5D8F878850",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "01C567E0-29F3-4852-9C0D-C6E8EE422D84",
+  "verticalSpacing": 0
+}

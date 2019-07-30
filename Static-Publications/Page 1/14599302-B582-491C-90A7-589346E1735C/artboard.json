@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1024,
+    "height": 1220,
     "width": 1440,
     "x": -149,
     "y": -49
@@ -30,7 +30,7 @@
   "groupLayout": {
     "_class": "MSImmutableFreeformGroupLayout"
   },
-  "hasBackgroundColor": false,
+  "hasBackgroundColor": true,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
@@ -56,6 +56,118 @@
     {
       "class": "symbolInstance",
       "id": "11E07BA5-D791-483E-93C7-503FB0172A74"
+    },
+    {
+      "class": "text",
+      "id": "BE59210E-C9AC-413C-8B6C-A2E9F30B553A"
+    },
+    {
+      "class": "group",
+      "id": "811B8AF9-F6DF-45F2-BC65-25DC7EBA4BE4"
+    },
+    {
+      "class": "group",
+      "id": "06668BB9-5333-4AAC-9C39-E07BAAF8BCBE"
+    },
+    {
+      "class": "text",
+      "id": "D9757842-4228-47DA-8D65-16C98618DB94"
+    },
+    {
+      "class": "text",
+      "id": "562434C3-15AF-48E1-AF1C-D058622B2337"
+    },
+    {
+      "class": "text",
+      "id": "BD1B6C4B-BD28-41B1-95EB-710AFA69D82C"
+    },
+    {
+      "class": "text",
+      "id": "5A3B7A3F-6F17-4112-A8E8-5C9979CF9693"
+    },
+    {
+      "class": "group",
+      "id": "0BD3BD7A-617A-4F9B-A997-8EAEDE19379D"
+    },
+    {
+      "class": "text",
+      "id": "E2EADFE0-2F1F-479F-9EE9-B5957C083B90"
+    },
+    {
+      "class": "text",
+      "id": "008C23EF-BEAF-4A26-A618-A6768631B4B9"
+    },
+    {
+      "class": "text",
+      "id": "AF2CE4C9-3591-430D-9796-93688854AC20"
+    },
+    {
+      "class": "group",
+      "id": "B2D21FF7-8EE3-4937-A6AA-CD4B74F53504"
+    },
+    {
+      "class": "text",
+      "id": "11A46EA2-F593-4400-937A-B887444CD41F"
+    },
+    {
+      "class": "text",
+      "id": "5C3F6FEB-8E81-48E6-82CC-AE97577AF985"
+    },
+    {
+      "class": "text",
+      "id": "93DD4C8D-DE62-4FE1-A1C1-2A3EA7E57FFC"
+    },
+    {
+      "class": "text",
+      "id": "97792B73-38F4-4A3C-B206-BD224506D822"
+    },
+    {
+      "class": "text",
+      "id": "A8502928-EB77-478F-9047-2C180310AE25"
+    },
+    {
+      "class": "text",
+      "id": "AB19607E-C252-40B4-84B5-D42E6BAD6D6E"
+    },
+    {
+      "class": "text",
+      "id": "F233AC37-CA40-4CF7-AD47-78344183F06A"
+    },
+    {
+      "class": "group",
+      "id": "0549A5CB-7169-4C88-9328-7BE30079766E"
+    },
+    {
+      "class": "text",
+      "id": "004E2B58-166C-4EAD-8000-A29B08BBB03E"
+    },
+    {
+      "class": "text",
+      "id": "B536D160-EA32-465A-AE39-E7EFB6623CDC"
+    },
+    {
+      "class": "text",
+      "id": "F4478048-7097-4707-8BBA-D357E77EDEB0"
+    },
+    {
+      "class": "text",
+      "id": "5886D318-AECE-41B2-AD68-DB2CFFF3DC53"
+    },
+    {
+      "class": "text",
+      "id": "C488A0FE-B6CF-4841-BED9-686370AD6477"
+    },
+    {
+      "class": "text",
+      "id": "17371FBD-00C9-4890-A290-3783FAC11C51"
+    },
+    {
+      "class": "group",
+      "id": "79830DC8-984F-4307-AB14-F19C5508D4D6"
+    },
+    {
+      "class": "text",
+      "id": "CF695245-EB66-44FF-9706-CCB62FE248FB"
     }
   ],
   "name": "Desktop HD",

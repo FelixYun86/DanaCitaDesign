@@ -10,6 +10,15 @@
   "booleanOperation": -1,
   "clippingMaskMode": 0,
   "do_objectID": "4F7F5055-A60B-4CC8-93E2-942069D6059A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
@@ -54,7 +63,7 @@
     },
     {
       "class": "bitmap",
-      "id": "344BE30F-8B68-4026-9C92-87CDA085760B"
+      "id": "CE6D8380-F9E3-4DD1-ABAB-9B7F71ED7343"
     },
     {
       "class": "text",
@@ -207,6 +216,13 @@
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

@@ -1,0 +1,68 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "461FA955-2F02-4D8A-A3C1-E1E67F311CA4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "65C5FE6C-3EDD-4881-83BC-6C3B0A3AF555",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F147BCA1-4281-44F2-B6AC-6BACDC2BADC6",
+    "height": 32,
+    "width": 32,
+    "x": 7,
+    "y": 7
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "SocialIcon_Line",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3F966E7E-AB7B-4457-8457-BDDBC59A2A89_layerStyle",
+      "value": "598661FB-7380-4EEE-AE12-F38A61F25088"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "41D165C4-089D-4B5A-A036-633B2D322751_layerStyle",
+      "value": "598661FB-7380-4EEE-AE12-F38A61F25088"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C44CBAFE-0D25-4113-B3BE-BE0BB3105737",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EAED2D16-B1AC-461F-97DD-F164ABB3BE46",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

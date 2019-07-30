@@ -12663,6 +12663,146 @@
       "remoteStyleID": "8ECEC610-9683-48FE-AE0F-AA016C49AC87[45B14036-6DA9-4DE8-9FE0-D1BD47D75F80]",
       "sourceLibraryName": "DC-Foundations",
       "symbolPrivate": true
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "0D554462-B8A0-4305-BAB8-F49D283BA512",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "A0334863-CEE1-4631-8A7D-FDE4DB1BAD79",
+        "name": "Heading 5/Left/Bold/DarkBlue",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.6666666666666666,
+                "green": 0.3176470588235294,
+                "red": 0.192156862745098
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Bold",
+                  "size": 24
+                }
+              },
+              "kerning": -0.6,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0
+              },
+              "textStyleVerticalAlignmentKey": 0
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "EEDB8BBE-73A7-49BB-8384-72298CCD1184",
+      "sourceLibraryName": "Library-Foundations",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "0D554462-B8A0-4305-BAB8-F49D283BA512",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "AD79C4FA-65F6-4C6B-BB77-280F97679DFA",
+        "name": "Body/Left/Regular/Grey5",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.4360384778911565,
+                "green": 0.4360384778911565,
+                "red": 0.4360384778911565
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Regular",
+                  "size": 16
+                }
+              },
+              "kerning": -0.4000000059604645,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0,
+                "maximumLineHeight": 20,
+                "minimumLineHeight": 20
+              },
+              "textStyleVerticalAlignmentKey": 0
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "11E581D8-7D01-4A9C-9A11-9306429463A8",
+      "sourceLibraryName": "Library-Foundations",
+      "symbolPrivate": false
+    },
+    {
+      "_class": "MSImmutableForeignTextStyle",
+      "libraryID": "0D554462-B8A0-4305-BAB8-F49D283BA512",
+      "localSharedStyle": {
+        "_class": "sharedStyle",
+        "do_objectID": "BCB15E27-56A7-4D9A-8BEA-7A9709705247",
+        "name": "Heading 3/Left/Bold/Grey6",
+        "value": {
+          "_class": "style",
+          "endMarkerType": 0,
+          "miterLimit": 10,
+          "startMarkerType": 0,
+          "textStyle": {
+            "_class": "textStyle",
+            "encodedAttributes": {
+              "MSAttributedStringColorAttribute": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 0.3215686274509804,
+                "green": 0.3215686274509804,
+                "red": 0.3215686274509804
+              },
+              "MSAttributedStringFontAttribute": {
+                "_class": "fontDescriptor",
+                "attributes": {
+                  "name": "ProximaNova-Bold",
+                  "size": 34
+                }
+              },
+              "kerning": -0.85,
+              "paragraphStyle": {
+                "_class": "paragraphStyle",
+                "alignment": 0,
+                "allowsDefaultTighteningForTruncation": 0
+              },
+              "textStyleVerticalAlignmentKey": 0
+            },
+            "verticalAlignment": 0
+          },
+          "windingRule": 1
+        }
+      },
+      "remoteStyleID": "55BFFAC2-E9B2-4CAF-A7F0-3F9A8F5218CA",
+      "sourceLibraryName": "Library-Foundations",
+      "symbolPrivate": false
     }
   ],
   "layerSymbols": {

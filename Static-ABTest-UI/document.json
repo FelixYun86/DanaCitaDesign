@@ -2,7 +2,11 @@
   "_class": "document",
   "assets": {
     "_class": "assetCollection",
+    "colorAssets": [
+    ],
     "colors": [
+    ],
+    "gradientAssets": [
     ],
     "gradients": [
     ],
@@ -16,8 +20,6 @@
   },
   "colorSpace": 0,
   "do_objectID": "D1C23ADB-A2D3-4791-8D74-3382368DB0DB",
-  "enableLayerInteraction": true,
-  "enableSliceInteraction": true,
   "foreignLayerStyles": [
     {
       "_class": "MSImmutableForeignLayerStyle",
@@ -1474,6 +1476,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "FC9C032B-E7A2-4293-B400-3410D3F21A35",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -1551,6 +1562,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "A99FDC02-0E85-430F-8BB6-E3648958FA50",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -1628,6 +1648,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "E0F9495A-7C23-46EA-8B7B-FE34426BCC3F",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -1691,6 +1720,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "75ADB9C4-6CC3-450C-B60D-AACF355858CB",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -1718,6 +1756,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "CE313EDA-8305-434D-BCD6-559DE9151CB2",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 0,
                 "frame": {
                   "_class": "rect",
@@ -1840,6 +1887,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "6929608D-60E4-450A-8ABA-E83AED75DECF",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -1903,6 +1959,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "DBC12B36-8774-4B9C-A0DC-B7F64981B632",
                     "dontSynchroniseWithSymbol": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -1979,6 +2044,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "F13E6CE2-8ADC-4022-91A6-F608668A0645",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -2116,6 +2190,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "EFE5E7E0-23B1-4735-9ED7-219F317796EE",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -2711,6 +2794,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "EC5C7C0D-7158-4F25-9FAE-88C56D97FEF4",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -2737,6 +2829,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "7509F45F-C929-4148-A3B6-30EE249938BD",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -2832,6 +2933,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "3F48E615-88D4-4D08-A2CA-49BB1A86AF87",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -3657,6 +3767,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "C9CD4F24-5384-48C6-9099-3A0CFA597999",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -3683,6 +3802,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "2781AF51-B2D4-4A57-A774-22D8C78FFA0C",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 0,
                 "frame": {
                   "_class": "rect",
@@ -3781,6 +3909,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "A6F8D268-A92A-4C44-BCA3-F765A46C9652",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -3844,6 +3981,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "7329DEC1-3D0F-401C-BBC2-D1EB3F391200",
                     "dontSynchroniseWithSymbol": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -3955,6 +4101,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "F66C5385-EF16-4685-99FB-C19937C13EB9",
                     "dontSynchroniseWithSymbol": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -6360,6 +6515,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "18FB1796-9396-456D-9233-447CEAD19140",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -6388,6 +6552,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "2C245D18-33B8-44D5-B516-A5EDAE1D3AD3",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 4,
                 "frame": {
                   "_class": "rect",
@@ -6577,6 +6750,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "31340485-3476-4F81-91E9-9FF30BB4EE67",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -6684,6 +6866,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "CE243A50-98ED-4053-BF79-E1FDE0910617",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -6790,6 +6981,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "00C0C041-283A-4E27-AB98-A313C95C6D48",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -6862,6 +7062,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "D426D098-FF05-45D5-A338-1DBA02FA2847",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -6948,6 +7157,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "3CA49668-DF0B-443E-BFC1-E73F8F80BCEC",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -7054,6 +7272,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "25D1CCC8-DE30-4FE3-BFE5-6767277FFA24",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -7160,6 +7387,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "37AF79CC-1F81-48F0-A019-4522D9409B0D",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -7268,6 +7504,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "1C684C92-C1EE-4EE2-93CE-F651FAB1D102",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -7342,6 +7587,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "DFBE132F-AE8F-4856-8872-F441B9BA4B1A",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -7405,6 +7659,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "65D608F8-C5E5-4B49-A81D-2D8542E397B5",
                     "dontSynchroniseWithSymbol": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -7515,6 +7778,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "0B5BCF35-31C4-4D0C-8676-8F4FD38E8B30",
                     "dontSynchroniseWithSymbol": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -7641,6 +7913,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "02518981-6038-4D0C-8B46-DC5CEF3C3981",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -7715,6 +7996,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "796323D1-E268-4377-A757-D0E14F96E55F",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -7768,6 +8058,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "9DDDF568-8CD7-475D-9745-635C424B7564",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -7793,6 +8092,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "6957D29C-6E2E-4672-A6B0-D771C69F8680",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -7839,6 +8147,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "60672D77-C334-4D97-8205-3385127EC953",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -7885,6 +8202,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "55605CC6-2A87-4470-9C66-DEF542C62161",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -7931,6 +8257,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "15664DC5-11BC-4571-A88A-E5A32B0E173D",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -8004,6 +8339,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "8D297861-DCC4-42DC-BAD0-A47696666FD5",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -8604,6 +8948,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "65700F17-9B7C-45D8-B9FB-65F4A1342993",
             "edited": true,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -9321,6 +9674,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "551B5EB1-B117-4E4F-BFC5-23F5912BF399",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -9347,6 +9709,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "437C3CFB-8BED-42F0-87CC-8F8BFA6B72C4",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -9374,6 +9745,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "2AE9AC1D-ED85-4A41-8883-B187DCBBF9A4",
                     "edited": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": true,
@@ -9545,6 +9925,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "99CA94BD-B7E6-4CB3-B786-8F5BBE140AA5",
                     "dontSynchroniseWithSymbol": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -10932,6 +11321,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "3A534F65-E98B-47A3-848C-FBFF7144DB7B",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -10958,6 +11356,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "D6A912D2-1484-41CE-AD7A-4BC812B43B5F",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 0,
                 "frame": {
                   "_class": "rect",
@@ -11072,6 +11479,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "3CE98750-3947-4A4F-B8F8-EF7E9990BF09",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -11097,6 +11513,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "8DE05B6C-1761-45A7-BCC4-C3620ECD1A8E",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -11122,6 +11547,15 @@
                         "booleanOperation": -1,
                         "clippingMaskMode": 0,
                         "do_objectID": "B84351FC-3E8A-473A-AF85-2FDFB6493911",
+                        "exportOptions": {
+                          "_class": "exportOptions",
+                          "exportFormats": [
+                          ],
+                          "includedLayerIds": [
+                          ],
+                          "layerOptions": 0,
+                          "shouldTrim": false
+                        },
                         "frame": {
                           "_class": "rect",
                           "constrainProportions": false,
@@ -11147,6 +11581,15 @@
                             "booleanOperation": -1,
                             "clippingMaskMode": 0,
                             "do_objectID": "1959DE6C-C171-4DBF-B79A-54899BF2CA58",
+                            "exportOptions": {
+                              "_class": "exportOptions",
+                              "exportFormats": [
+                              ],
+                              "includedLayerIds": [
+                              ],
+                              "layerOptions": 0,
+                              "shouldTrim": false
+                            },
                             "frame": {
                               "_class": "rect",
                               "constrainProportions": false,
@@ -11173,6 +11616,15 @@
                                 "clippingMaskMode": 0,
                                 "do_objectID": "D8555051-5352-47C7-A7C2-AB44F1F4ED00",
                                 "edited": false,
+                                "exportOptions": {
+                                  "_class": "exportOptions",
+                                  "exportFormats": [
+                                  ],
+                                  "includedLayerIds": [
+                                  ],
+                                  "layerOptions": 0,
+                                  "shouldTrim": false
+                                },
                                 "fixedRadius": 0,
                                 "frame": {
                                   "_class": "rect",
@@ -11271,6 +11723,15 @@
                                 "booleanOperation": -1,
                                 "clippingMaskMode": 0,
                                 "do_objectID": "25F73E08-E9AD-480B-A8A1-822C625A4633",
+                                "exportOptions": {
+                                  "_class": "exportOptions",
+                                  "exportFormats": [
+                                  ],
+                                  "includedLayerIds": [
+                                  ],
+                                  "layerOptions": 0,
+                                  "shouldTrim": false
+                                },
                                 "frame": {
                                   "_class": "rect",
                                   "constrainProportions": false,
@@ -11334,6 +11795,15 @@
                                     "clippingMaskMode": 0,
                                     "do_objectID": "19B8BFB5-901C-4CD1-81E9-AD12F8694EB8",
                                     "dontSynchroniseWithSymbol": false,
+                                    "exportOptions": {
+                                      "_class": "exportOptions",
+                                      "exportFormats": [
+                                      ],
+                                      "includedLayerIds": [
+                                      ],
+                                      "layerOptions": 0,
+                                      "shouldTrim": false
+                                    },
                                     "frame": {
                                       "_class": "rect",
                                       "constrainProportions": false,
@@ -11445,6 +11915,15 @@
                                     "clippingMaskMode": 0,
                                     "do_objectID": "0AD8CB4F-95E8-4935-9A9A-4423A6A5F2C9",
                                     "dontSynchroniseWithSymbol": false,
+                                    "exportOptions": {
+                                      "_class": "exportOptions",
+                                      "exportFormats": [
+                                      ],
+                                      "includedLayerIds": [
+                                      ],
+                                      "layerOptions": 0,
+                                      "shouldTrim": false
+                                    },
                                     "frame": {
                                       "_class": "rect",
                                       "constrainProportions": false,
@@ -11639,6 +12118,15 @@
                         "clippingMaskMode": 0,
                         "do_objectID": "2E84034A-AFA7-442C-962A-6DC29A21A51C",
                         "dontSynchroniseWithSymbol": false,
+                        "exportOptions": {
+                          "_class": "exportOptions",
+                          "exportFormats": [
+                          ],
+                          "includedLayerIds": [
+                          ],
+                          "layerOptions": 0,
+                          "shouldTrim": false
+                        },
                         "frame": {
                           "_class": "rect",
                           "constrainProportions": false,
@@ -11739,6 +12227,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "4B668CE5-CF78-4F2D-8D4D-5789E7D281A4",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -12394,6 +12891,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "82551F0A-C74F-4ECE-85AE-43CEE850C0EF",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -12421,6 +12927,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "B62C92F3-1F23-45E1-9C00-5921DC603D77",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 0,
                 "frame": {
                   "_class": "rect",
@@ -12603,6 +13118,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "F8CAAD39-36EE-440F-BB93-C2F9F0B29D96",
             "dontSynchroniseWithSymbol": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13094,6 +13618,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "0C0DC8A4-DD35-4F30-8D37-1EA8ABBA204C",
             "dontSynchroniseWithSymbol": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -13868,6 +14401,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "16FE3CEB-4992-49CD-BE91-E8846DAA6513",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 0,
             "frame": {
               "_class": "rect",
@@ -14050,6 +14592,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "C1264462-3775-4BC5-B725-CE3E97D93479",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -14111,6 +14662,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "40982EF4-AB33-468B-9F3A-7A43CC0F6D2A",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -14219,6 +14779,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "75B5F1E5-7E90-46F4-8124-936B162115C0",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -14821,6 +15390,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "4358114D-414B-4406-A75D-3FA90B9982D8",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -14847,6 +15425,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "75DF106B-2790-45F6-AE47-BE6CCCFD96FA",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -14936,6 +15523,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "BD4168DD-8A6A-4611-843F-50365D40CF8E",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -15751,6 +16347,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "2A4D6374-B11C-4FAA-846A-ED1522046BE0",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -15777,6 +16382,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "1D407F57-484B-4F33-AAB9-D2B5B2756C69",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 0,
                 "frame": {
                   "_class": "rect",
@@ -15875,6 +16489,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "A771B6D7-7612-47E5-AD50-B1FEF82506D0",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -15900,6 +16523,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "844928B0-1646-41E2-BF12-48E78B19D9A5",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -15947,6 +16579,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "5E875415-5606-4BA3-803A-4A3E4E9DE987",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -15994,6 +16635,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "CC506543-D9C3-4EE6-9382-B9A160FF5FE2",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -16041,6 +16691,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "18FB9A1A-3C58-4500-8546-06499C318F9D",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -17601,6 +18260,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "A5369FDE-F6C8-4A54-9330-E15794AD292F",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -17626,6 +18294,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "6544D2AC-17E3-4899-9D85-F669405107D4",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -17653,6 +18330,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "759644A8-3C60-40CB-8E25-AA802B262693",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -17831,6 +18517,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "53AD9250-0DAD-495A-8511-082CC10EC188",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -17858,6 +18553,15 @@
                         "clippingMaskMode": 0,
                         "do_objectID": "EC037B23-D156-43F0-911A-0FB6C2DE9C4E",
                         "edited": true,
+                        "exportOptions": {
+                          "_class": "exportOptions",
+                          "exportFormats": [
+                          ],
+                          "includedLayerIds": [
+                          ],
+                          "layerOptions": 0,
+                          "shouldTrim": false
+                        },
                         "frame": {
                           "_class": "rect",
                           "constrainProportions": false,
@@ -18049,6 +18753,15 @@
                         "clippingMaskMode": 0,
                         "do_objectID": "D58AD921-ADF8-48D6-BEDD-B211CE4F32A5",
                         "edited": true,
+                        "exportOptions": {
+                          "_class": "exportOptions",
+                          "exportFormats": [
+                          ],
+                          "includedLayerIds": [
+                          ],
+                          "layerOptions": 0,
+                          "shouldTrim": false
+                        },
                         "frame": {
                           "_class": "rect",
                           "constrainProportions": false,
@@ -18199,6 +18912,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "012CADF7-1E90-4F47-BBE5-9184D21D4105",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -18298,6 +19020,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "64A81BF7-79E7-4AD3-A9AF-E47818CF1B40",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -18397,6 +19128,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "7CB39BB6-DE8B-4C90-9075-7551ABE8F200",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -18592,6 +19332,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "AE63AB86-98C0-43E7-BBCA-D01484B2CB19",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 1,
                 "frame": {
                   "_class": "rect",
@@ -19239,6 +19988,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "F619840F-6DA6-45EA-AB5E-C52845E0BE3C",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -19266,6 +20024,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "6FEED62A-C71A-4D67-B304-27E79A228325",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -19371,6 +20138,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "552539E4-997A-4B7B-BB42-46B9427BDFB5",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -19868,6 +20644,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "AA0416B9-4ABD-4E92-AA5E-EB969D596EF5",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -19894,6 +20679,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "48E7327B-45C8-415A-9491-13784229B282",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -20594,6 +21388,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "32968234-7AD3-4E37-8B54-0E3BEB458607",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -20620,6 +21423,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "7C2604C8-F377-4BFD-8AF2-739978F9BD84",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 0,
                 "frame": {
                   "_class": "rect",
@@ -20718,6 +21530,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "F24EE491-A5C8-4656-9F7C-F672A98CFD39",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -20743,6 +21564,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "6C53AFF3-1381-4598-A7F4-36B3292B82EA",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -20790,6 +21620,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "72CA1CF1-E41E-4801-9C39-50210A49D4BF",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -20837,6 +21676,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "CF1A07DB-6765-4F6D-ABAA-48D2B622810C",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -21799,6 +22647,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "0D20B526-CC3C-4C24-AAB1-3AE9C18CB159",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -21825,6 +22682,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "980C40C2-73A2-49B0-BD8F-2EB4289FCA7F",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 4,
                 "frame": {
                   "_class": "rect",
@@ -22017,6 +22883,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "573FCC32-DF9F-47B8-BD29-D3C77ACCCCCC",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -22145,6 +23020,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "7A87D175-4B5C-4B6E-AFA5-4C24BA003878",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -22170,6 +23054,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "A456D9E1-903B-4C8F-BA24-B7CF38DA2B15",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -22251,6 +23144,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "926D8048-9202-47DB-99C3-341FDEEABAD1",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -22749,6 +23651,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "8C7333D1-B1EE-456D-9238-7241AD3FD598",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -23252,6 +24163,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "C4DA9E48-811D-4242-9BF0-43ABB9716EB3",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -25245,6 +26165,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "9B3DE87E-B400-4F9B-B2D3-143FF0B1F321",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -25271,6 +26200,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "EB3CDB85-4456-4255-AD32-3DFB40F16FA3",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -25297,6 +26235,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "A01635F0-BEF4-4995-8599-1FDE8FF4A6FF",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -25324,6 +26271,15 @@
                         "clippingMaskMode": 0,
                         "do_objectID": "999850A2-F8F6-4814-BA3C-439673DA391C",
                         "edited": true,
+                        "exportOptions": {
+                          "_class": "exportOptions",
+                          "exportFormats": [
+                          ],
+                          "includedLayerIds": [
+                          ],
+                          "layerOptions": 0,
+                          "shouldTrim": false
+                        },
                         "frame": {
                           "_class": "rect",
                           "constrainProportions": false,
@@ -25502,6 +26458,15 @@
                         "booleanOperation": -1,
                         "clippingMaskMode": 0,
                         "do_objectID": "676EA381-F6B2-446B-91F4-BF7216D8955F",
+                        "exportOptions": {
+                          "_class": "exportOptions",
+                          "exportFormats": [
+                          ],
+                          "includedLayerIds": [
+                          ],
+                          "layerOptions": 0,
+                          "shouldTrim": false
+                        },
                         "frame": {
                           "_class": "rect",
                           "constrainProportions": false,
@@ -25529,6 +26494,15 @@
                             "clippingMaskMode": 0,
                             "do_objectID": "A5D53E30-DF15-4046-96DE-083AC7FD6C86",
                             "edited": true,
+                            "exportOptions": {
+                              "_class": "exportOptions",
+                              "exportFormats": [
+                              ],
+                              "includedLayerIds": [
+                              ],
+                              "layerOptions": 0,
+                              "shouldTrim": false
+                            },
                             "frame": {
                               "_class": "rect",
                               "constrainProportions": false,
@@ -25720,6 +26694,15 @@
                             "clippingMaskMode": 0,
                             "do_objectID": "3DC98A03-5806-4A57-9DE3-177AC9B9B808",
                             "edited": true,
+                            "exportOptions": {
+                              "_class": "exportOptions",
+                              "exportFormats": [
+                              ],
+                              "includedLayerIds": [
+                              ],
+                              "layerOptions": 0,
+                              "shouldTrim": false
+                            },
                             "frame": {
                               "_class": "rect",
                               "constrainProportions": false,
@@ -25870,6 +26853,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "394C7F23-387D-494D-94D3-E009576059FC",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -25985,6 +26977,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "1364C1DA-17F3-4051-9365-2749E75BA3AC",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -26090,6 +27091,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "D33FD867-8EB8-48F8-BADE-C84082B8B348",
                     "edited": true,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -26195,6 +27205,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "6167CC04-D272-46B4-B809-F15933A0752F",
                     "edited": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -26294,6 +27313,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "1169D257-1A2B-4FC4-816D-A754B5CF8D58",
                     "edited": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -26426,6 +27454,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "98A10D12-AADB-4E0F-81D7-F1B16669906F",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -26453,6 +27490,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "EAC80B00-C29F-4889-8B50-1D7D31EDB4FB",
                     "edited": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "fixedRadius": 3,
                     "frame": {
                       "_class": "rect",
@@ -26554,6 +27600,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "BA7481A4-D807-4545-96AF-2CAF605489EC",
                     "edited": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "fixedRadius": 2,
                     "frame": {
                       "_class": "rect",
@@ -27074,6 +28129,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "3C579630-DFCF-4AD7-B3A0-3B2DF6AE99AA",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 4,
             "frame": {
               "_class": "rect",
@@ -28394,6 +29458,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "512D4A26-AC6A-45D4-A6AA-0D6053BDA02A",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -28420,6 +29493,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "A81BEF0C-4443-4EB1-8B94-074F58AC35F8",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 0,
                 "frame": {
                   "_class": "rect",
@@ -28534,6 +29616,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "AE1F5715-740D-4046-B0E3-F3102752A711",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -28559,6 +29650,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "2DADFF96-6165-4BBA-B20B-994E43820965",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -28584,6 +29684,15 @@
                         "booleanOperation": -1,
                         "clippingMaskMode": 0,
                         "do_objectID": "23737879-8EC8-46E4-A1E7-46A4F3A8E6E3",
+                        "exportOptions": {
+                          "_class": "exportOptions",
+                          "exportFormats": [
+                          ],
+                          "includedLayerIds": [
+                          ],
+                          "layerOptions": 0,
+                          "shouldTrim": false
+                        },
                         "frame": {
                           "_class": "rect",
                           "constrainProportions": false,
@@ -28609,6 +29718,15 @@
                             "booleanOperation": -1,
                             "clippingMaskMode": 0,
                             "do_objectID": "EA004BBF-AA32-41ED-9BFA-3562784FAE8D",
+                            "exportOptions": {
+                              "_class": "exportOptions",
+                              "exportFormats": [
+                              ],
+                              "includedLayerIds": [
+                              ],
+                              "layerOptions": 0,
+                              "shouldTrim": false
+                            },
                             "frame": {
                               "_class": "rect",
                               "constrainProportions": false,
@@ -28635,6 +29753,15 @@
                                 "clippingMaskMode": 0,
                                 "do_objectID": "D9768D7A-90A0-4D5D-A818-C453670E5B89",
                                 "edited": false,
+                                "exportOptions": {
+                                  "_class": "exportOptions",
+                                  "exportFormats": [
+                                  ],
+                                  "includedLayerIds": [
+                                  ],
+                                  "layerOptions": 0,
+                                  "shouldTrim": false
+                                },
                                 "fixedRadius": 0,
                                 "frame": {
                                   "_class": "rect",
@@ -28733,6 +29860,15 @@
                                 "booleanOperation": -1,
                                 "clippingMaskMode": 0,
                                 "do_objectID": "FB9C56DF-D408-46FD-9EB2-EB2E871ADD8F",
+                                "exportOptions": {
+                                  "_class": "exportOptions",
+                                  "exportFormats": [
+                                  ],
+                                  "includedLayerIds": [
+                                  ],
+                                  "layerOptions": 0,
+                                  "shouldTrim": false
+                                },
                                 "frame": {
                                   "_class": "rect",
                                   "constrainProportions": false,
@@ -28796,6 +29932,15 @@
                                     "clippingMaskMode": 0,
                                     "do_objectID": "9F603116-92D4-4FE4-94A2-DE29076BE0C1",
                                     "dontSynchroniseWithSymbol": false,
+                                    "exportOptions": {
+                                      "_class": "exportOptions",
+                                      "exportFormats": [
+                                      ],
+                                      "includedLayerIds": [
+                                      ],
+                                      "layerOptions": 0,
+                                      "shouldTrim": false
+                                    },
                                     "frame": {
                                       "_class": "rect",
                                       "constrainProportions": false,
@@ -28906,6 +30051,15 @@
                                     "clippingMaskMode": 0,
                                     "do_objectID": "6FB898B2-C3E9-46FF-9FC2-90EDDE9A2113",
                                     "dontSynchroniseWithSymbol": false,
+                                    "exportOptions": {
+                                      "_class": "exportOptions",
+                                      "exportFormats": [
+                                      ],
+                                      "includedLayerIds": [
+                                      ],
+                                      "layerOptions": 0,
+                                      "shouldTrim": false
+                                    },
                                     "frame": {
                                       "_class": "rect",
                                       "constrainProportions": false,
@@ -29099,6 +30253,15 @@
                         "clippingMaskMode": 0,
                         "do_objectID": "C748B636-7C07-4248-A446-76154898D630",
                         "dontSynchroniseWithSymbol": false,
+                        "exportOptions": {
+                          "_class": "exportOptions",
+                          "exportFormats": [
+                          ],
+                          "includedLayerIds": [
+                          ],
+                          "layerOptions": 0,
+                          "shouldTrim": false
+                        },
                         "frame": {
                           "_class": "rect",
                           "constrainProportions": false,
@@ -29570,6 +30733,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "F89AA44C-B290-4541-B66B-DF0174B53AEC",
             "edited": true,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -30154,6 +31326,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "E3F243A3-AA8B-4936-BBE2-8D63BE28B871",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -30180,6 +31361,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "83ACFF95-987F-486C-942A-BAB51E9539F8",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 0,
                 "frame": {
                   "_class": "rect",
@@ -30337,6 +31527,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "02A3595A-349C-497B-B9A4-0499AD06C02D",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -31338,6 +32537,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "DD28247A-D7EE-453E-8BE5-9F5FAF5A832A",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -31363,6 +32571,15 @@
                 "booleanOperation": 0,
                 "clippingMaskMode": 0,
                 "do_objectID": "E764539A-C893-4C1A-AF4E-04A07D342123",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -31389,6 +32606,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "C45AB4FF-903E-4B5E-9006-22FAF8CECB33",
                     "edited": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "fixedRadius": 0,
                     "frame": {
                       "_class": "rect",
@@ -31525,6 +32751,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "8A180CC9-0E56-42C4-946D-C58FD159AC3F",
                     "edited": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "fixedRadius": 0,
                     "frame": {
                       "_class": "rect",
@@ -31713,6 +32948,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "2C964251-21AE-4107-8250-8CCBB87A7516",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 0,
                 "frame": {
                   "_class": "rect",
@@ -31828,6 +33072,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "2779B31C-EBBF-47AB-8240-2BCFBB3207CC",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 0,
                 "frame": {
                   "_class": "rect",
@@ -32366,6 +33619,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "A1518504-E37B-47C8-AEFA-9ECCC53F5524",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -32393,6 +33655,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "09521422-E049-4690-BB7C-0EF435AE055F",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -32909,6 +34180,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "22CD0EF1-276B-4D7C-A90C-102470FC9287",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -32936,6 +34216,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "71401AB6-2702-4E85-BC89-D18E2076F07E",
                 "edited": true,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -33749,6 +35038,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "7ED077C3-55FD-43A8-BFA3-6766802AFEA0",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -33775,6 +35073,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "ECF68A8B-B7B3-44C6-A8DA-D1297983951A",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 0,
                 "frame": {
                   "_class": "rect",
@@ -33873,6 +35180,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "4769DE5B-12FC-4F9E-963A-E4F1D47A0A86",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -33936,6 +35252,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "AE302699-7FBE-4897-9440-D612FBD30C56",
                     "dontSynchroniseWithSymbol": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -34047,6 +35372,15 @@
                     "clippingMaskMode": 0,
                     "do_objectID": "64297837-26F6-48D8-96FF-313D2C4E99D5",
                     "dontSynchroniseWithSymbol": false,
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -34691,6 +36025,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "A8E52AFF-A1EE-4A4E-A6B3-554C7FEB26CE",
             "edited": false,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "fixedRadius": 0,
             "frame": {
               "_class": "rect",
@@ -34827,6 +36170,15 @@
             "clippingMaskMode": 0,
             "do_objectID": "1C6289E1-3F9D-4298-A55B-B7409AFD159E",
             "edited": true,
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -35428,6 +36780,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "D2684A7E-DFDA-41E9-95E7-BE4AFE520260",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -35453,6 +36814,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "8E976EA6-9881-4B5F-A971-2718319F4816",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -35543,6 +36913,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "3BC6FDC3-5426-4F11-ACE4-CF2B7AE455C8",
                 "dontSynchroniseWithSymbol": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -37018,6 +38397,15 @@
             "booleanOperation": -1,
             "clippingMaskMode": 0,
             "do_objectID": "DBAA7F0D-F7A2-4874-88FA-286C65027874",
+            "exportOptions": {
+              "_class": "exportOptions",
+              "exportFormats": [
+              ],
+              "includedLayerIds": [
+              ],
+              "layerOptions": 0,
+              "shouldTrim": false
+            },
             "frame": {
               "_class": "rect",
               "constrainProportions": false,
@@ -37044,6 +38432,15 @@
                 "clippingMaskMode": 0,
                 "do_objectID": "D51320E0-E8D4-4B32-B228-82FF214DA09D",
                 "edited": false,
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "fixedRadius": 0,
                 "frame": {
                   "_class": "rect",
@@ -37158,6 +38555,15 @@
                 "booleanOperation": -1,
                 "clippingMaskMode": 0,
                 "do_objectID": "51584034-C98F-47DE-9A26-BA469A320073",
+                "exportOptions": {
+                  "_class": "exportOptions",
+                  "exportFormats": [
+                  ],
+                  "includedLayerIds": [
+                  ],
+                  "layerOptions": 0,
+                  "shouldTrim": false
+                },
                 "frame": {
                   "_class": "rect",
                   "constrainProportions": false,
@@ -37183,6 +38589,15 @@
                     "booleanOperation": -1,
                     "clippingMaskMode": 0,
                     "do_objectID": "094E590E-A454-434D-95B9-22F394665E8F",
+                    "exportOptions": {
+                      "_class": "exportOptions",
+                      "exportFormats": [
+                      ],
+                      "includedLayerIds": [
+                      ],
+                      "layerOptions": 0,
+                      "shouldTrim": false
+                    },
                     "frame": {
                       "_class": "rect",
                       "constrainProportions": false,
@@ -37208,6 +38623,15 @@
                         "booleanOperation": -1,
                         "clippingMaskMode": 0,
                         "do_objectID": "8DFB067D-519B-405F-8840-0B547C0CE17B",
+                        "exportOptions": {
+                          "_class": "exportOptions",
+                          "exportFormats": [
+                          ],
+                          "includedLayerIds": [
+                          ],
+                          "layerOptions": 0,
+                          "shouldTrim": false
+                        },
                         "frame": {
                           "_class": "rect",
                           "constrainProportions": false,
@@ -37233,6 +38657,15 @@
                             "booleanOperation": -1,
                             "clippingMaskMode": 0,
                             "do_objectID": "EB56FE35-AA21-4A47-A7EB-27893678313A",
+                            "exportOptions": {
+                              "_class": "exportOptions",
+                              "exportFormats": [
+                              ],
+                              "includedLayerIds": [
+                              ],
+                              "layerOptions": 0,
+                              "shouldTrim": false
+                            },
                             "frame": {
                               "_class": "rect",
                               "constrainProportions": false,
@@ -37259,6 +38692,15 @@
                                 "clippingMaskMode": 0,
                                 "do_objectID": "DF83ED8C-3503-489E-87A9-59B7DF2A12CA",
                                 "edited": false,
+                                "exportOptions": {
+                                  "_class": "exportOptions",
+                                  "exportFormats": [
+                                  ],
+                                  "includedLayerIds": [
+                                  ],
+                                  "layerOptions": 0,
+                                  "shouldTrim": false
+                                },
                                 "fixedRadius": 0,
                                 "frame": {
                                   "_class": "rect",
@@ -37357,6 +38799,15 @@
                                 "booleanOperation": -1,
                                 "clippingMaskMode": 0,
                                 "do_objectID": "F5AADBA8-3FB0-4703-90CC-5C27C653A70D",
+                                "exportOptions": {
+                                  "_class": "exportOptions",
+                                  "exportFormats": [
+                                  ],
+                                  "includedLayerIds": [
+                                  ],
+                                  "layerOptions": 0,
+                                  "shouldTrim": false
+                                },
                                 "frame": {
                                   "_class": "rect",
                                   "constrainProportions": false,
@@ -37420,6 +38871,15 @@
                                     "clippingMaskMode": 0,
                                     "do_objectID": "6F479247-E371-425A-8F7A-FF2C0014DBFA",
                                     "dontSynchroniseWithSymbol": false,
+                                    "exportOptions": {
+                                      "_class": "exportOptions",
+                                      "exportFormats": [
+                                      ],
+                                      "includedLayerIds": [
+                                      ],
+                                      "layerOptions": 0,
+                                      "shouldTrim": false
+                                    },
                                     "frame": {
                                       "_class": "rect",
                                       "constrainProportions": false,
@@ -37530,6 +38990,15 @@
                                     "clippingMaskMode": 0,
                                     "do_objectID": "38D08A91-7592-485E-95AA-D0E727E98444",
                                     "dontSynchroniseWithSymbol": false,
+                                    "exportOptions": {
+                                      "_class": "exportOptions",
+                                      "exportFormats": [
+                                      ],
+                                      "includedLayerIds": [
+                                      ],
+                                      "layerOptions": 0,
+                                      "shouldTrim": false
+                                    },
                                     "frame": {
                                       "_class": "rect",
                                       "constrainProportions": false,
@@ -37687,6 +39156,15 @@
                         "booleanOperation": -1,
                         "clippingMaskMode": 0,
                         "do_objectID": "13CD5D2A-0751-4DF5-A99E-B90172497B1E",
+                        "exportOptions": {
+                          "_class": "exportOptions",
+                          "exportFormats": [
+                          ],
+                          "includedLayerIds": [
+                          ],
+                          "layerOptions": 0,
+                          "shouldTrim": false
+                        },
                         "frame": {
                           "_class": "rect",
                           "constrainProportions": false,
@@ -37713,6 +39191,15 @@
                             "clippingMaskMode": 0,
                             "do_objectID": "E95D5069-D0D6-4D85-ACD2-7C509133F2E8",
                             "edited": false,
+                            "exportOptions": {
+                              "_class": "exportOptions",
+                              "exportFormats": [
+                              ],
+                              "includedLayerIds": [
+                              ],
+                              "layerOptions": 0,
+                              "shouldTrim": false
+                            },
                             "frame": {
                               "_class": "rect",
                               "constrainProportions": true,
@@ -37846,6 +39333,15 @@
                             "booleanOperation": -1,
                             "clippingMaskMode": 0,
                             "do_objectID": "1900B7B1-D937-453B-9B86-F04511014733",
+                            "exportOptions": {
+                              "_class": "exportOptions",
+                              "exportFormats": [
+                              ],
+                              "includedLayerIds": [
+                              ],
+                              "layerOptions": 0,
+                              "shouldTrim": false
+                            },
                             "frame": {
                               "_class": "rect",
                               "constrainProportions": true,
@@ -39517,7 +41013,8 @@
     ]
   },
   "meta": {
-    "appVersion": "55.2",
+    "appVersion": "56.2",
+    "build": 81672,
     "version": 119
   },
   "pages": [
@@ -39534,7 +41031,7 @@
         "name": "DC-UniversitasIndonesia",
         "projectId": "d5897f4f-0dcf-444d-b202-568bf894c8e8",
         "projectName": "",
-        "readOnly": true,
+        "readOnly": 1,
         "sha": "293ea3f7717f709eb6c94cc2e86cef15015c4344",
         "version": 2
       }

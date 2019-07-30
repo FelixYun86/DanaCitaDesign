@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF6BA5C6-76FF-4E0C-94ED-154AB45B9116",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AFC6D646-BD53-49BB-A47A-4BDE5C47D88B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "617579E7-A3A3-4629-8834-EE43A9F9E01A",
+    "height": 47,
+    "width": 193,
+    "x": 16,
+    "y": 253
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Atoms/Button/Primary Button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "3BC6FDC3-5426-4F11-ACE4-CF2B7AE455C8_stringValue",
+      "value": "Ajukan Pinjaman"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F37A3E37-8577-42AA-A177-17E9BB83E6D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "01C567E0-29F3-4852-9C0D-C6E8EE422D84",
+  "verticalSpacing": 0
+}

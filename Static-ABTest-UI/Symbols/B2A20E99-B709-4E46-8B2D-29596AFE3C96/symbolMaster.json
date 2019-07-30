@@ -12,6 +12,15 @@
   "changeIdentifier": 13945,
   "clippingMaskMode": 0,
   "do_objectID": "B2A20E99-B709-4E46-8B2D-29596AFE3C96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
   "frame": {
     "_class": "rect",
     "constrainProportions": false,

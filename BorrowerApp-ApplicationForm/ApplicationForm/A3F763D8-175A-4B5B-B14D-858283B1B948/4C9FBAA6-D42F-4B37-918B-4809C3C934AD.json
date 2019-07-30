@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4C9FBAA6-D42F-4B37-918B-4809C3C934AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 160,
+    "width": 360,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecules/TitleBar",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "04816875-EC06-4515-89D7-1A580CD14597/7E12EB44-C641-491D-A9D0-772E0C6844EC_symbolID",
+      "value": ""
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "39113D43-EFD1-4E68-AD09-1228A5497E62",
+      "overrideName": "04816875-EC06-4515-89D7-1A580CD14597_symbolID",
+      "value": "0DA7A545-2AB0-45C6-89F8-6FB93496ED32"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8F95306C-7900-4CD9-B4C4-AFE73D93C81A",
+      "overrideName": "04816875-EC06-4515-89D7-1A580CD14597/69C44D20-0697-4CD3-9DFC-B4404BF3714A_stringValue",
+      "value": "Verifikasi"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "74528FE0-2F4E-44FF-8986-62284C21000D",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "size.update": 1561625847.410272
+      }
+    }
+  },
+  "verticalSpacing": 0
+}
